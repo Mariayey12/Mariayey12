@@ -1,10 +1,13 @@
+[![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/sx8zVQGt/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/dZ8p60BB)
+
+
 ### Hi there 👋
 
 <!--
 **Mariayey12/Mariayey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+❤️ Programming | 🖤 Music | 💙 Movies
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
