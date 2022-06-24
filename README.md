@@ -12,12 +12,17 @@ Here are some ideas to get you started:
 
 ❤️ Programming | 🖤 Music | 💙 Reads
 
--💻 I am a front-end Developer of web.
--🌎 I'm from Medellin - Colombia.
-- 🔭 I’m currently working on proyect life
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 💻 I am a front-end Developer of web.
+
+- 🌎 I'm from Bogotá - Colombia.
+
+- 🔭 I’m currently working on proyect life.
+
+- 🌱 I’m currently learning metodologia Agil.
+
+- 👯 I’m looking to collaborate on new side projects.
+
+- 🤔 I’m looking for help with  
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
