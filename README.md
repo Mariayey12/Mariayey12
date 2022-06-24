@@ -1,14 +1,20 @@
-[![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/sx8zVQGt/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/dZ8p60BB)
+  [![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387) 
 
 
-### Hi there 👋
 
-<!--
+### Hi  👋 I'm Maria Martínez 👋
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Mariayey12/Mariayey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Here are some ideas to get you started:
-❤️ Programming | 🖤 Music | 💙 Movies
-- 🔭 I’m currently working on ...
+
+❤️ Programming | 🖤 Music | 💙 Reads
+
+-💻 I am a front-end Developer of web.
+-🌎 I'm from Medellin - Colombia.
+- 🔭 I’m currently working on proyect life
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------------------------------
+                            
