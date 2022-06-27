@@ -2,7 +2,7 @@
 
 
 
-### Hi  👋 I'm Maria Martínez 👋
+### Hi I'm Maria Martínez 👋Front End Developer and industrial engineer. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Mariayey12/Mariayey12** About me.
