@@ -1,4 +1,4 @@
-   [![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387) 
+   [![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387)
 
 
 
@@ -12,13 +12,13 @@
 
 Here are some ideas to get you started:
 
-❤️ Programming | 🖤 Music | 💙 Reads
+❤️ Programming | 🖤 Music | 💙 Reads  
+![giphy](https://user-images.githubusercontent.com/92681721/176051708-49391508-bd53-4f45-8cab-8b4ec73b4f2e.gif)
 
-- 💻 I am a front-end Developer of web.
+- 💻 I am a front-end Developer of web.      
 
-- 🌎 I'm from Bogotá - Colombia.
-
-- 🔭 I’m currently working on proyect life.
+- 🌎 I'm from Bogotá - Colombia.       
+- 🔭 I’m currently working on proyect life. 
 
 - 🌱 I’m currently learning metodologia Agil.
 
@@ -30,14 +30,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me  mmariayennifer.25@gmail.com /https://github.com/Mariayey12
 
-- ⚡ Fun fact /🎿 Hobbies other than coding : Read, Watch movies, Paint pottery 🤔🤖..
+- ⚡ Fun fact /🎿 Hobbies other than coding : Read, Watch movies, Paint pottery 🤔🤖..  
 ------------------------------------------------------------------------------------------------
  My Skill Set
  -----------------------------------------------------------------------------------------------
-
-
-
-
+------------------------  
+ Frontend 
 
 
 
