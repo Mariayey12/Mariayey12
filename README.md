@@ -1,4 +1,4 @@
-  [![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387) 
+   [![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387) 
 
 
 
