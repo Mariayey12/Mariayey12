@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new side projects.
 
 - 🤔 I’m looking for help with  
-- 
+
 - 💬 Ask me about React,HTML,CSS,Javascript,etc...
-- 
+
 - 📫 How to reach me  mmariayennifer.25@gmail.com /https://github.com/Mariayey12
-- 
+
 - ⚡ Fun fact /🎿 Hobbies other than coding : Read, Watch movies, Paint pottery 🤔🤖..
 ------------------------------------------------------------------------------------------------
                             
