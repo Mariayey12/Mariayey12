@@ -1,4 +1,4 @@
-  -------------------------------------------- [![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387)
+_______________________________[![Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg](https://i.postimg.cc/D05gsLPM/Azul-Negro-Limpio-Profesional-Educaci-n-Presentaci-n-de-Ventas-1.jpg)](https://postimg.cc/RJ6Kx387)
 ### Hi I'm Maria Martínez 👋
 🚀  passionate by programmation 
 
@@ -8,8 +8,6 @@
 Here are some ideas to get you started:
 
 ❤️ Programming | 🖤 Music | 💙 Reads  
-
------------------------![giphy](https://user-images.githubusercontent.com/92681721/176051708-49391508-bd53-4f45-8cab-8b4ec73b4f2e.gif)
 
 - 💻 I am a front-end Developer of web.      
 - 🌎 I'm from Bogotá - Colombia.       
@@ -26,8 +24,13 @@ Here are some ideas to get you started:
  ###  Front-end 🔚 
 ![programacion](https://user-images.githubusercontent.com/92681721/176324504-458a6d0c-1a7a-45a3-99ee-042f5403268a.gif)
 ![1-zOFj444wI5ENPZW2iP2g](https://user-images.githubusercontent.com/92681721/176330087-5bf1af34-2c1f-4603-86ec-b34e717711f7.gif)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
- ###  Back end 🔚 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ###  Back end 🔚 Firebase & Heroku
+![68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313030302f312a674a4a68443247796e5544696b4b6c354f57626b5f772e676966](https://user-images.githubusercontent.com/92681721/176331864-709ffb84-1426-493b-9581-a72a04be5749.gif)
 
+![kafka-video](https://user-images.githubusercontent.com/92681721/176333083-e00e9d84-aca4-433f-87a4-d5fe598c2adc.gif)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 
