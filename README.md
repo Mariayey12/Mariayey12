@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![kafka-video](https://user-images.githubusercontent.com/92681721/176333083-e00e9d84-aca4-433f-87a4-d5fe598c2adc.gif)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://https://github.com/Mariayey12/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariayey12)](https://https://github.com/Mariayey12/github-readme-stats)
