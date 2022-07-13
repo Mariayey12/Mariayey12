@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on proyect life. 
 - 🌱 I’m currently learning metodologia Agil.
 - 👯 I’m looking to collaborate on new side projects.
-- 🤔 I’m looking for help with  
+- 🤔 I’m looking for help with  Redux
 - 💬 Ask me about React,HTML,CSS,Javascript,etc...
 - 📫 How to reach me  mmariayennifer.25@gmail.com /https://github.com/Mariayey12/linkedin.com/in/maria-yennifer-martinez-cordero-b0a573b7
 - ⚡ Fun fact /🎿 Hobbies other than coding : Read, Watch movies, Paint pottery 🤔🤖..  
