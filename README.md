@@ -1,10 +1,9 @@
 ____________________________________
 
 ### Hi I'm Maria Martínez 👋
-🚀  Passionate by programmation 
+🚀  Passionate by Programmation 
 
-__________________________________________________________________________________________________________________________________________
-![1](https://github.com/Mariayey12/Mariayey12/assets/92681721/483f8795-2095-4bf7-82dc-8964c96dcedd)
+__________________________________________________________________________________________________________________________________________![Hackathon](https://github.com/Mariayey12/Mariayey12/assets/92681721/b5a1163a-e72b-40fc-8f54-ba8a71992c12)
 
 ### Mariayey12/  About me.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,15 +11,15 @@ Here are some ideas to get you started:
 
 ❤️ Programming | 🖤 Music | 💙 Readr  
 
-- 💻 I am a front-end Developer of web.      
+- 💻 I am a front-end Developer of the web.      
 - 🌎 I'm from Bogotá - Colombia.       
-- 🔭 I’m currently working on proyect life. 
-- 🌱 I’m currently learning metodologia Agil.
+- 🔭 I’m currently working on project life. 
+- 🌱 I’m currently learning metodologia Agil, scrum, Kamba.
 - 👯 I’m looking to collaborate on new side projects.
 - 🤔 I’m looking for help with  Redux
-- 💬 Ask me about React,HTML,CSS,Javascript,etc...
+- 💬 Ask me about React, HTML, CSS, Javascript, etc...
 - 📫 How to reach me  mmariayennifer.25@gmail.com /https://github.com/Mariayey12/linkedin.com/in/maria-yennifer-martinez-cordero-b0a573b7
-- ⚡ Fun fact /🎿 Hobbies other than coding : Read, Watch movies, Paint pottery 🤔🤖..  
+- ⚡ Fun fact /🎿 Hobbies other than coding: Read, Watch movies, Paint pottery 🤔🤖..  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
  ### My Skill Set
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
