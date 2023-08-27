@@ -1,11 +1,8 @@
-____________________________________
 
 ### Hi I'm Maria Martínez 👋
 🚀  Passionate by Programmation 
-
 __________________________________________________________________________________________________________________________________________![Hackathon](https://github.com/Mariayey12/Mariayey12/assets/92681721/b5a1163a-e72b-40fc-8f54-ba8a71992c12)
-
-### Mariayey12/  About me.
+### Mariayey12/  About me:Profesional digital, innovadora, apasionada por la tecnología y siempre al día con las últimas tendencias y herramientas en el campo. Mi experiencia abarca tanto el desarrollo Front-end como Back-end, lo que me convierte en un desarrollador Full Stack junior. Tengo un enfoque en ReactJS, Redux, styled components y react-router-DOM en el Front-end, así como en tecnologías de servidor como Node.js y bases de datos como MySQL en el Back-end Java; poseo sólidos conocimientos en HTML5, CSS3 y JavaScript, y he trabajado con Git y GitHub para el control de versiones de código. Además, he utilizado plataformas como Firebase y Heroku para la implementación de proyectos Apirest. Mi formación profesional está respaldada por una sólida educación académica en Tecnología en Informática Universitaria. Complementando mis habilidades técnicas, he adquirido experiencia en la atención al cliente y tengo una certificacion en Competencia Laboral en Atención al Cliente. Además de mi formación formal, he invertido tiempo en mi crecimiento profesional a través de una variedad de cursos complementarios que se alinean con mi perfil. Estos cursos incluyen temas que abarcan desde el perfeccionamiento técnico hasta la satisfacción de las necesidades específicas de diferentes tipos de clientes.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Here are some ideas to get you started:
 
