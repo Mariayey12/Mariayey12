@@ -1,4 +1,6 @@
-![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/0781ca77-251f-42d3-ab9b-465716ef6ea0)❤️ Programming | 🖤 Music | 💙 Movies
+![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/0781ca77-251f-42d3-ab9b-465716ef6ea0)
+
+❤️ Programming | 🖤 Music | 💙 Movies
 
 💻 I am a front-end Developer of web.
 🌎 I'm from Medellin - Colombia.
