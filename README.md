@@ -3,7 +3,6 @@
 <br></br>
 __________________________________________________________________________________________________________________________________________________________________________________________
 About me: 
-__________________________________________________________________________________________________________________________________________________________________________________________
 <h4 align="center padding">
  :smiley: Hola , soy Maríyey 👋, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs.<b></b>
   Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
