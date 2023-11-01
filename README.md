@@ -45,12 +45,13 @@ ________________________________________________________________________________
 | **Testing**                | [Mocha](https://mochajs.org)             | <img src="https://img.icons8.com/color/48/000000/mocha.png" width="20" height="20"> |
 |                           | [Postman](https://postman.com)           | <img src="https://img.icons8.com/color/48/000000/postman.png" width="20" height="20"> |
 | **Software**               | [Git](https://git-scm.com/)               | <img src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20"> |
-|                           | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="20" height="20"> |
+|                           | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="90" height="20"> |
 |                           | [Figma](https://www.figma.com/)           | <img src="https://img.icons8.com/color/48/000000/figma.png" width="20" height="20"> |
 |                           | [Linux](https://www.linux.org/)           | <img src="https://img.icons8.com/color/48/000000/linux.png" width="20" height="20"> |
 | **Other**                  | [Heroku](https://heroku.com)             | <img src="https://img.icons8.com/color/48/000000/heroku.png" width="20" height="20"> |
 |                           | [Vue.js](https://vuejs.org/)             | <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="20" height="20"> |
 |                           | [Webpack](https://webpack.js.org)       | <img src="https://img.icons8.com/color/48/000000/webpack.png" width="20" height="20"> |
+
 
 
 
