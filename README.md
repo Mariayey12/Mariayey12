@@ -3,7 +3,7 @@
 <br></br>
 
 <h5 align="center">:smiley: Hola , soy Maríyey 👋, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs. 
-  Siempre me mantengo al día con las últimas tendencias y herramientas en este campo. 
+  Siempre me mantengo al día con las últimas tendencias y herramientas en este campo. <br></br>
 🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend). 
 :mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
 Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. 
