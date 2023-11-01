@@ -7,7 +7,7 @@ About me:
 :mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
-*********____________________________(***)_____________________________________**************______________________*************__________________***********_____________________________
+__________________________________________________________________________________________________________________________________________________________________________________________
 <h4 align="center padding">
 ❤️ Programming | 🖤 Music | 💙 Movies
 
