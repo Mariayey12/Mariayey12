@@ -2,11 +2,11 @@
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/ee98e7ac-ca68-44b7-b05b-e7cd1bce7d68)
 <br></br>
 
-<h5 align="center">:smiley: Hola , soy Maríyey 👋, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs. 
-  Siempre me mantengo al día con las últimas tendencias y herramientas en este campo. <br></br>
-🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend). 
-:mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
-Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. 
+<h5 align="center">:smiley: Hola , soy Maríyey 👋, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs. <br></br>
+  Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
+🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend). <br></br>
+:mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.<br></br>
+Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. <br></br>
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h5>
 <b></b><b></b>
 About me: 
