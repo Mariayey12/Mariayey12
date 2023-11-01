@@ -37,6 +37,8 @@ ________________________________________________________________________________
 7.Skills Software
 8.Skills Other
 __________________________________________________________________________________________________________________________________________________________________________________________
+![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
+![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/turepositorio?label=Contribuciones)
 
 
 
