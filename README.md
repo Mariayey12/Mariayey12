@@ -9,6 +9,16 @@ Estoy firmemente comprometida con el aprendizaje continuo y la creación de solu
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h5>
 __________________________________****___________________****_______________________****_______________****_________________
 About me: 
+❤️ Programming | 🖤 Music | 💙 Movies
+
+💻 I am a front-end Developer of web.
+🌎 I'm from Medellin - Colombia.
+🎮 I like to play video games.
+💎 I love to customize everything lol.
+🔭 I’m currently working on a tour platform.
+🌱 I’m currently learning TypeScript, Next.js and AWS.
+🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
+__________________________________****___________________****_______________________****_______________****_________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
