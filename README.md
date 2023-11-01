@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ### Herramientas Técnicas de Trabajo ⚒
 
 #### 1. Skills Programming Languages
-- [Babel](https://babeljs.io/) <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg&layout=compact&hide=html" width="20" height="20">
+- [Babel](https://babeljs.io/) 
 
 #### 2. Skills Frontend Development
 - [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20">
