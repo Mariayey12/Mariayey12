@@ -63,8 +63,7 @@ ________________________________________________________________________________
 #### 8. Skills Other
 - [Heroku](https://heroku.com) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
 - [Vue.js](https://vuejs.org/) ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
-- [Webpack](https://webpack.js.org) ![Webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)
- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+- [Webpack](https://webpack.js.org) <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 __________________________________________________________________________________________________________________________________________________________________________________________
 ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
 ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/turepositorio?label=Contribuciones)
