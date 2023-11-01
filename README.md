@@ -28,44 +28,34 @@ Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 
+### Herramientas Técnicas de Trabajo ⚒
 
-#### 1. Skills Programming Languages
--  ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)
-
-#### 2. Skills Frontend Development
-- [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg?label=Contribuciones" width="20" height="20">
-- [CSS3](https://www.w3schools.com/css/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20">
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
-- [React](https://reactjs.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20">
-
-#### 3. Skills Backend Development
-- [C](https://www.cprogramming.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20">
-- [Node.js](https://nodejs.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20">
-- [PHP](https://www.php.net) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20">
-- [Spring](https://spring.io/) <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="20" height="20">
-
-#### 4. Skills Database
-- [MongoDB](https://www.mongodb.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20">
-- [MySQL](https://www.mysql.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20">
-
-#### 5. Skills Backend as a Service (BaaS)
-- [Firebase](https://firebase.google.com/) <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20" height="20">
-
-#### 6. Skills Testing
-- [Mocha](https://mochajs.org) <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="20" height="20">
-- [Postman](https://postman.com) <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20" height="20">
-
-#### 7. Skills Software
-- [Git](https://git-scm.com/) <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20">
-- [Illustrator](https://www.adobe.com/in/products/illustrator.html) <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20" height="20">
-- [Figma](https://www.figma.com/) <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20" height="20">
-- [Linux](https://www.linux.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20">
+| Categoría                    | Tecnología/Enlace                                           | Icono                                 |
+|-----------------------------|-------------------------------------------------------------|--------------------------------------|
+| **Skills Programming Languages** | [Babel](https://babeljs.io/)                                 | ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg) |
+| **Skills Frontend Development**  | [Bootstrap](https://getbootstrap.com)                       | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) |
+|                                | [CSS3](https://www.w3schools.com/css/)                       | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
+|                                | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+|                                | [React](https://reactjs.org/)                                 | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) |
+| **Skills Backend Development**   | [C](https://www.cprogramming.com/)                            | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) |
+|                                | [Express](https://expressjs.com)                             | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) |
+|                                | [Node.js](https://nodejs.org)                               | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) |
+|                                | [PHP](https://www.php.net)                                   | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) |
+|                                | [Spring](https://spring.io/)                                 | ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) |
+| **Skills Database**             | [MongoDB](https://www.mongodb.com/)                         | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) |
+|                                | [MySQL](https://www.mysql.com/)                             | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
+| **Skills Backend as a Service (BaaS)** | [Firebase](https://firebase.google.com/)               | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) |
+| **Skills Testing**             | [Mocha](https://mochajs.org)                               | ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg) |
+|                                | [Postman](https://postman.com)                             | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) |
+| **Skills Software**            | [Git](https://git-scm.com/)                                 | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
+|                                | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) |
+|                                | [Figma](https://www.figma.com/)                             | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) |
+|                                | [Linux](https://www.linux.org/)                             | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
+| **Skills Other**               | [Heroku](https://heroku.com)                               | ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) |
+|                                | [Vue.js](https://vuejs.org/)                               | ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) |
+|                                | [Webpack](https://webpack.js.org)                         | ![Webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg) |
 
 
-#### 8. Skills Other
-- [Heroku](https://heroku.com) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
-- [Vue.js](https://vuejs.org/) ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
-- [Webpack](https://webpack.js.org) <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 __________________________________________________________________________________________________________________________________________________________________________________________
 ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
 ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
