@@ -3,8 +3,9 @@
 
 
 <h1 align="center">Hola 👋, soy Mariyey</h1> 
----------------------------------------------------------------------------------------------------------
-<h3 align="center">Hola, soy María, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs. Siempre me mantengo al día con las últimas tendencias y herramientas en este campo. Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend). Mi formación profesional se respalda en una sólida base, con una Licenciatura en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil. Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h3>
+__________________________________________________________________________________________________________________________________________________________________________________________
+<h6 align="center">Hola, soy María, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs. Siempre me mantengo al día con las últimas tendencias y herramientas en este campo. Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend). Mi formación profesional se respalda en una sólida base, con una Licenciatura en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil. Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h6>
+__________________________________************___________________************_______________________******************************_________________________________________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
