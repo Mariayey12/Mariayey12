@@ -1,7 +1,7 @@
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 <br></br>
 __________________________________________________________________________________________________________________________________________________________________________________________
-Hola 👋, Me Presento este es mi  Perfil...
+Hola 👋,:raising_hand: Me Presento este es mi  Perfil...
 __________________________________________________________________________________________________________________________________________________________________________________________
  :smiley: soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs.<b></b>
   Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
@@ -9,6 +9,8 @@ ________________________________________________________________________________
 :mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
+__________________________________________________________________________________________________________________________________________________________________________________________
+Me dedico a:
 __________________________________________________________________________________________________________________________________________________________________________________________
 <h4 align="center padding">
 ❤️ Programming | 🖤 Music | 💙 Movies
