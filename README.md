@@ -1,6 +1,6 @@
 
-![image](https://www.canva.com/design/DAFy2G71lbA/yhMRxEbltFRG7cCl8A_pYA/watch?utm_content=DAFy2G71lbA&utm_campaign=designshare&utm_medium=link&utm_source=editor.gif)
 
+![image](https://drive.google.com/file/d/1NYPpkzPu5M72wvCMNK7TKiodwnFpw3Cg/view?usp=drive_link)
 
 
 <h1 align="center">Hola 👋, soy María Martínez</h1> 
