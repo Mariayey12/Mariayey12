@@ -18,7 +18,7 @@ About me:
 🔭 I’m currently working on a tour platform.
 🌱 I’m currently learning TypeScript, Next.js and AWS.
 🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
-__________________________________****___________________****_______________________****_______________****_________________
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
