@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 | Categoría                    | Tecnología/Enlace                                           | Icono                                 |
 |-----------------------------|-------------------------------------------------------------|--------------------------------------|
-| **Skills Programming Languages** | [Babel](https://babeljs.io/)                                 | ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg) |
+| **Skills Programming Languages** | [Babel](https://babeljs.io/)                                 | ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg ) <h3 align="left"> </h3>|
 | **Skills Frontend Development**  | [Bootstrap](https://getbootstrap.com)                       | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) |
 |                                | [CSS3](https://www.w3schools.com/css/)                       | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
 |                                | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
