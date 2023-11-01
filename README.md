@@ -28,33 +28,28 @@ Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 
-### Herramientas Técnicas de Trabajo ⚒
-
-| Categoría                    | Tecnología/Enlace                                           | Icono                                 |
-|-----------------------------|-------------------------------------------------------------|--------------------------------------|
-| **Skills Programming Languages** | [Babel](https://babeljs.io/)                                 | ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg ) <h3 align="left"> </h3>|
-| **Skills Frontend Development**  | [Bootstrap](https://getbootstrap.com)                       | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) |
-|                                | [CSS3](https://www.w3schools.com/css/)                       | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
-|                                | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-|                                | [React](https://reactjs.org/)                                 | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) |
-| **Skills Backend Development**   | [C](https://www.cprogramming.com/)                            | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) |
-|                                | [Express](https://expressjs.com)                             | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) |
-|                                | [Node.js](https://nodejs.org)                               | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) |
-|                                | [PHP](https://www.php.net)                                   | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) |
-|                                | [Spring](https://spring.io/)                                 | ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) |
-| **Skills Database**             | [MongoDB](https://www.mongodb.com/)                         | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) |
-|                                | [MySQL](https://www.mysql.com/)                             | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
-| **Skills Backend as a Service (BaaS)** | [Firebase](https://firebase.google.com/)               | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) |
-| **Skills Testing**             | [Mocha](https://mochajs.org)                               | ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg) |
-|                                | [Postman](https://postman.com)                             | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) |
-| **Skills Software**            | [Git](https://git-scm.com/)                                 | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
-|                                | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) |
-|                                | [Figma](https://www.figma.com/)                             | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) |
-|                                | [Linux](https://www.linux.org/)                             | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
-| **Skills Other**               | [Heroku](https://heroku.com)                               | ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) |
-|                                | [Vue.js](https://vuejs.org/)                               | ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) |
-|                                | [Webpack](https://webpack.js.org)                         | ![Webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg) |
-
+| Categoría                        | Tecnología/Enlace                                    | Icono                             |
+|---------------------------------|------------------------------------------------------|----------------------------------|
+| **Programming Languages**       | [Babel](https://babeljs.io/)                         | <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="20" height="20"> |
+| **Frontend Development**        | [Bootstrap](https://getbootstrap.com)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20"> |
+|                                 | [CSS3](https://www.w3schools.com/css/)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> |
+|                                 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> |
+|                                 | [React](https://reactjs.org/)                         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"> |
+| **Backend Development**         | [C](https://www.cprogramming.com/)                    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20"> |
+|                                 | [Express](https://expressjs.com)                     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="20" height="20"> |
+|                                 | [Node.js](https://nodejs.org)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"> |
+| **Database**                     | [MongoDB](https://www.mongodb.com/)                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20"> |
+|                                 | [MySQL](https://www.mysql.com/)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"> |
+| **Backend as a Service (BaaS)** | [Firebase](https://firebase.google.com/)             | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20" height="20"> |
+| **Testing**                      | [Mocha](https://mochajs.org)                         | <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="20" height="20"> |
+|                                 | [Postman](https://postman.com)                       | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20" height="20"> |
+| **Software**                     | [Git](https://git-scm.com/)                           | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20"> |
+|                                 | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20" height="20"> |
+|                                 | [Figma](https://www.figma.com/)                       | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20" height="20"> |
+|                                 | [Linux](https://www.linux.org/)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"> |
+| **Other**                        | [Heroku](https://heroku.com)                         | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="20" height="20"> |
+|                                 | [Vue.js](https://vuejs.org/)                         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="20" height="20"> |
+|                                 | [Webpack](https://webpack.js.org)                   | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
