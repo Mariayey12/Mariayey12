@@ -11,8 +11,6 @@ ________________________________________________________________________________
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Me dedico a ... 
-
-
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books  
 
 -🔭 Estoy trabajando en:
