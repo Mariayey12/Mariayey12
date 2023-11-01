@@ -10,7 +10,7 @@ ________________________________________________________________________________
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 __________________________________________________________________________________________________________________________________________________________________________________________
-### Me dedico a:information_desk_person: ... 
+### Me dedico a ... 
 
 
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books  
