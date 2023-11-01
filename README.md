@@ -8,6 +8,8 @@ Mi formación profesional se respalda en una sólida base, con una Tecnologia en
 Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. 
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h5>
 __________________________________****___________________****_______________________****_______________****_________________
+About me: <h3 align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
