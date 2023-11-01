@@ -27,10 +27,10 @@ ________________________________________________________________________________
 Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
-### Herramientas Técnicas de Trabajo ⚒
+
 
 #### 1. Skills Programming Languages
--  ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)
+-  ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg?label=Seguidores&style=social)
 
 #### 2. Skills Frontend Development
 - [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20">
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 - [Webpack](https://webpack.js.org) <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 __________________________________________________________________________________________________________________________________________________________________________________________
 ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
-![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/turepositorio?label=Contribuciones)
+![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
 __________________________________________________________________________________________________________________________________________________________________________________________
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
 
