@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ### Herramientas Técnicas de Trabajo ⚒
 
 #### 1. Skills Programming Languages
-- [Babel](https://babeljs.io/) <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="20" height="20">
+- [Babel](https://babeljs.io/) <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg&layout=compact&hide=html" width="20" height="20">
 
 #### 2. Skills Frontend Development
 - [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20">
@@ -40,7 +40,6 @@ ________________________________________________________________________________
 
 #### 3. Skills Backend Development
 - [C](https://www.cprogramming.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20">
-- [Express](https://expressjs.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="20" height="20">
 - [Node.js](https://nodejs.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20">
 - [PHP](https://www.php.net) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20">
 - [Spring](https://spring.io/) <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="20" height="20">
