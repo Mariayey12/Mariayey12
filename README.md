@@ -10,7 +10,7 @@ ________________________________________________________________________________
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 __________________________________________________________________________________________________________________________________________________________________________________________
-Me dedico a:information_desk_person: ... 
+###Me dedico a:information_desk_person: ... 
 
 
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books  
@@ -22,6 +22,19 @@ Me dedico a:information_desk_person: ...
 - 📝 Escribo regularmente artículos sobre:
 - 📄 Conoce mis experiencias:
 - ⚡ Dato curioso:
+__________________________________________________________________________________________________________________________________________________________________________________________
+### Conecta con migo...
+Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
+__________________________________________________________________________________________________________________________________________________________________________________________
+###Herramientas Tecnica  de trabajo  ⚒ ...
+1.Skills Programming Languages
+2.Skills Frontend Development
+3.Skills Backend Development
+4.Skills Database
+5.Skills Backend as a Service(BaaS)
+6.Skills  Testing
+7.Skills Software
+8.Skills Other
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 
