@@ -1,7 +1,6 @@
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 __________________________________________________________________________________________________________________________________________________________________________________________
 About me: 
-<h4 align="center padding">
  :smiley: Hola , soy Maríyey 👋, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs.<b></b>
   Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
 🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend).
