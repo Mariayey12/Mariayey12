@@ -12,9 +12,7 @@ En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar
 __________________________________________________________________________________________________________________________________________________________________________________________
 Me dedico a:
 __________________________________________________________________________________________________________________________________________________________________________________________
-<h4 align="center padding">
 ❤️ Programming | 🖤 Music | 💙 Movies
-
 💻 I am a front-end Developer of web.
 🌎 I'm from Medellin - Colombia.
 🎮 I like to play video games.
