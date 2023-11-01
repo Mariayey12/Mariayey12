@@ -38,7 +38,7 @@ ________________________________________________________________________________
 - [React](https://reactjs.org/) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 
 #### 3. Skills Backend Development
-- [C](https://www.cprogramming.com/) ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+- [C](https://www.cprogramming.com/) 
 - [Express](https://expressjs.com) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
 - [Node.js](https://nodejs.org) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
 - [PHP](https://www.php.net) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
