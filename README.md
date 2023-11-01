@@ -12,6 +12,14 @@ En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar
 __________________________________________________________________________________________________________________________________________________________________________________________ <br></br>
 Me dedico a:information_desk_person:  
 ❤️ Programming | 🖤 Music | 💙 Movies
+
+-🔭 Estoy trabajando en:
+-🌱 Estoy aprendiendo actualmente: 
+- 💬 Pregúntame acerca de:
+- 👨‍💻 Todos mis proyectos:
+- 📝 Escribo regularmente artículos sobre:
+- 📄 Conoce mis experiencias:
+- ⚡ Dato curioso:
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 
