@@ -30,10 +30,10 @@ ________________________________________________________________________________
 
 
 #### 1. Skills Programming Languages
--  ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svglabel=Seguidores&style=social)
+-  ![Babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)
 
 #### 2. Skills Frontend Development
-- [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20">
+- [Bootstrap](https://getbootstrap.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg?label=Contribuciones" width="20" height="20">
 - [CSS3](https://www.w3schools.com/css/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20">
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20">
 - [React](https://reactjs.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20">
