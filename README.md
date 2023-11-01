@@ -9,11 +9,11 @@ ________________________________________________________________________________
 :mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
-<br></br>
 __________________________________________________________________________________________________________________________________________________________________________________________
 Me dedico a:information_desk_person:  
 __________________________________________________________________________________________________________________________________________________________________________________________
 <h4 align="center padding">
+__________________________________________________________________________________________________________________________________________________________________________________________
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books  
 
 -🔭 Estoy trabajando en:
