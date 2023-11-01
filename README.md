@@ -19,7 +19,7 @@ ________________________________________________________________________________
 💎 I love to customize everything lol.
 🔭 I’m currently working on a tour platform.
 🌱 I’m currently learning TypeScript, Next.js and AWS.
-🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
+🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..<h4 align="center padding"> 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 
