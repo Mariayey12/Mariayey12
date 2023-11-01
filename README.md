@@ -1,4 +1,13 @@
-![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/0781ca77-251f-42d3-ab9b-465716ef6ea0)
+![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/0781ca77-251f-42d3-ab9b-465716ef6ea0)❤️ Programming | 🖤 Music | 💙 Movies
+
+💻 I am a front-end Developer of web.
+🌎 I'm from Medellin - Colombia.
+🎮 I like to play video games.
+💎 I love to customize everything lol.
+🔭 I’m currently working on a tour platform.
+🌱 I’m currently learning TypeScript, Next.js and AWS.
+🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
+
 <br></br>
 __________________________________________________________________________________________________________________________________________________________________________________________
 About me: 
@@ -11,15 +20,6 @@ About me:
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 
 
-❤️ Programming | 🖤 Music | 💙 Movies
-
-💻 I am a front-end Developer of web.
-🌎 I'm from Medellin - Colombia.
-🎮 I like to play video games.
-💎 I love to customize everything lol.
-🔭 I’m currently working on a tour platform.
-🌱 I’m currently learning TypeScript, Next.js and AWS.
-🎿 Hobbies other than coding : Playing video games, Watch movies, Paint pottery 🤔🤖..
 
 
 <h3 align="left">Connect with me:</h3>
