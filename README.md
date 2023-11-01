@@ -38,8 +38,7 @@ ________________________________________________________________________________
 - [React](https://reactjs.org/) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
 
 #### 3. Skills Backend Development
-- [C](https://www.cprogramming.com/) 
-- [Express](https://expressjs.com) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+- [C](https://www.cprogramming.com/) ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 - [Node.js](https://nodejs.org) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
 - [PHP](https://www.php.net) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 - [Spring](https://spring.io/) ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
@@ -65,7 +64,7 @@ ________________________________________________________________________________
 - [Heroku](https://heroku.com) ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
 - [Vue.js](https://vuejs.org/) ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
 - [Webpack](https://webpack.js.org) ![Webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)
-
+ <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 __________________________________________________________________________________________________________________________________________________________________________________________
 ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
 ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/turepositorio?label=Contribuciones)
