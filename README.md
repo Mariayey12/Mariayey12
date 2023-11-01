@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 | Categoría                        | Tecnología/Enlace                                    | Icono                             |
 |---------------------------------|------------------------------------------------------|----------------------------------|
-| **Programming Languages**       | [Babel](https://babeljs.io/)                         | <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="20" height="20"> |
+| **Programming Languages**       | [Babel](https://babeljs.io/)                         |  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> |
 | **Frontend Development**        | [Bootstrap](https://getbootstrap.com)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20"> |
 |                                 | [CSS3](https://www.w3schools.com/css/)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> |
 |                                 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> |
