@@ -2,6 +2,7 @@
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/ee98e7ac-ca68-44b7-b05b-e7cd1bce7d68)
 <br></br>
 About me:
+__________________________________________________________________________________________________________________________________________________________________________________________
 <h4 align="center padding">
  :smiley: Hola , soy Maríyey 👋, madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs.<b></b>
   Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
