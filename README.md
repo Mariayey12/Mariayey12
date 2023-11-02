@@ -28,14 +28,19 @@ Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 ### Redes Sociales
 [![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)](https://github.com/Mariayey12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tu_perfil_de_linkedin/)
+### Redes Sociales
 
-- [Instagram](https://www.instagram.com/tu_usuario_de_instagram)
-- [Facebook](https://www.facebook.com/tu_usuario_de_facebook)
-- [Twitter](https://twitter.com/tu_usuario_de_twitter)
+Conéctate conmigo en las redes sociales:
+
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
+- [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter)
 
 ### Correo Electrónico
 
-- Contacto por correo electrónico: [tu@email.com](mailto:tu@email.com)
+¡No dudes en contactarme por correo electrónico!
+
+- [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
