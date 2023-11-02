@@ -108,4 +108,7 @@ Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 - [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 - [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org)
+### Estado de las Pruebas Unitarias
+
+[![Tests](https://github.com/tu_usuario/tu_repositorio/workflows/Pruebas%20Unitarias/badge.svg)](https://github.com/tu_usuario/tu_repositorio/actions)
 
