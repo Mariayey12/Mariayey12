@@ -25,6 +25,16 @@ ________________________________________________________________________________
 ### <h3 align="left">Conecta con migo...</h3>
 
 Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
+### Redes Sociales
+
+- [Instagram](https://www.instagram.com/tu_usuario_de_instagram)
+- [Facebook](https://www.facebook.com/tu_usuario_de_facebook)
+- [Twitter](https://twitter.com/tu_usuario_de_twitter)
+
+### Correo Electrónico
+
+- Contacto por correo electrónico: [tu@email.com](mailto:tu@email.com)
+
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 ### Herramientas Técnicas de Trabajo ⚒
