@@ -26,6 +26,8 @@ ________________________________________________________________________________
 
 Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 ### Redes Sociales
+[![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)](https://github.com/Mariayey12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tu_perfil_de_linkedin/)
 
 - [Instagram](https://www.instagram.com/tu_usuario_de_instagram)
 - [Facebook](https://www.facebook.com/tu_usuario_de_facebook)
