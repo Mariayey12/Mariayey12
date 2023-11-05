@@ -25,6 +25,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### <h3 align="left">Conecta con migo¡...</h3>
 ### Redes Sociales
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
 - [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook)
@@ -32,10 +33,9 @@ ________________________________________________________________________________
 ### Correo Electrónico
 ¡No dudes en contactarme por correo electrónico!
 - [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
-
-__________________________________________________________________________________________________________________________________________________________________________________________
-### Herramientas Tecnicas  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>                                     
-**Programming Languages** **Frontend Development**    |  Programacion Orientada a eventos,a Objetos y Funcional| 
+________________________________________________________________________________________________________________________________________________________________________________________
+### Herramientas Tecnicas y Tecnologías de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>**Programming Languages** **Frontend Development**    
+|   Programacion Orientada a eventos,a Objetos y Funcional| 
 - <a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
   <div style="background-color: #E34F26; color: #ffffff; padding: 10px 40px; border: none; text-align: center; cursor: pointer; display: inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="60" height="50">
@@ -59,15 +59,13 @@ ________________________________________________________________________________
 -  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 - [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-
 _________________________________________________________________________________________________________________________________________________________________________________________
-| **Database**                     
-_________________________________________________________________________________________________________________________________________________________________________________________
+| **Database**                  _________________________________________________________________________________________________________________________________________________________________________________________
 **Backend as a Service (BaaS)**
 - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 - [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-
-**Testing** 
+_________________________________________________________________________________________________________________________________________________________________________________________
+**Testing** |### Estado de las Pruebas Unitarias
 - [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
 -  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
 - [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/) |
@@ -76,21 +74,10 @@ ________________________________________________________________________________
 - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 - [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html)
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
- | **Other**
-
-          
-
-| **Software**                     | [Git](https://git-scm.com/)                           | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20"> |
-|                                 | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30" height="30"> |
-|                                 | [Figma](https://www.figma.com/)                       | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20" height="20"> |
-|                                 | [Linux](https://www.linux.org/)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20"> |
-| **Other**                        | [Heroku](https://heroku.com)                         | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="20" height="20"> |
-|                                 | [Vue.js](https://vuejs.org/)                         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="20" height="20"> |
-|                                 | [Webpack](https://webpack.js.org)                   | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350
-
-
-
+- [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+ | **Lenguajes Tranpilador de JavaScript**
+- [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org)
+- [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 __________________________________________________________________________________________________________________________________________
 ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
 ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
@@ -100,26 +87,9 @@ ________________________________________________________________________________
 ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
 ![Estadísticas de lenguajes de programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 __________________________________________________________________________________________________________________________________________
-### Tecnologías y Herramientas
-
-Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 
 
 
-- [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org)
-
-
-
-### Estado de las Pruebas Unitarias
-JUnit  y Junit para java
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 
 
 
