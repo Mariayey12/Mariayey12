@@ -44,8 +44,8 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="40">
   </div>
 </a> 
-- [![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
--  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>.
+
+
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 -[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
