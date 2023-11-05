@@ -23,16 +23,13 @@ ________________________________________________________________________________
 - 📄 Conoce mis experiencias:
 - ⚡ Dato curioso:
 __________________________________________________________________________________________________________________________________________________________________________________________
-### <h3 align="left">Conecta con migo...</h3>
+### <h3 align="left">Conecta con migo... Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.</h3>
 
 Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 ### Redes Sociales
-[![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)](https://github.com/Mariayey12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tu_perfil_de_linkedin/)
-### Redes Sociales
 
 Conéctate conmigo en las redes sociales:
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tu_perfil_de_linkedin/)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
 - [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter)
