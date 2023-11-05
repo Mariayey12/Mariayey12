@@ -49,22 +49,38 @@ ________________________________________________________________________________
 - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 -[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
 - [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
+- [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 _________________________________________________________________________________________________________________________________________________________________________________________
-
-
-
-| **Backend Development**    
+| **Backend Development**    |
 - [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)](https://www.cprogramming.com/)
 - [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 - [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+- [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
+_________________________________________________________________________________________________________________________________________________________________________________________
+| **Database**                     
+_________________________________________________________________________________________________________________________________________________________________________________________
+**Backend as a Service (BaaS)**
+- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+- [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
-| **Database**                     | [MongoDB](https://www.mongodb.com/)                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20"> |
-|                                 | [MySQL](https://www.mysql.com/)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"> |
-| **Backend as a Service (BaaS)** | [Firebase](https://firebase.google.com/)             | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20" height="20"> |
-| **Testing**                      | [Mocha](https://mochajs.org)                         | <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="20" height="20"> |
-|                                 | [Postman](https://postman.com)                       | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20" height="20"> |
+**Testing** 
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
+- [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/) |
+ **Software**
+- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+- [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+- [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+ | **Other**
+
+          
+
 | **Software**                     | [Git](https://git-scm.com/)                           | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20" height="20"> |
 |                                 | [Illustrator](https://www.adobe.com/in/products/illustrator.html) | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30" height="30"> |
 |                                 | [Figma](https://www.figma.com/)                       | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20" height="20"> |
@@ -89,32 +105,13 @@ ________________________________________________________________________________
 Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 
 
-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-- [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-- [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-- [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html)
-- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-- [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-- [![React Native](https://img.shields.io/badge/React%20Native-00D8FF?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
-- [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-- [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-- [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+
 - [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org)
-- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-- [React](https://reactjs.org/) - Mi marco de trabajo de JavaScript favorito.
-- [React Router DOM](https://reactrouter.com/web/guides/quick-start) - Una biblioteca de enrutamiento para aplicaciones React.
-- [Redux](https://redux.js.org/) - Un contenedor de estado predecible para aplicaciones JavaScript.
+
+
 
 ### Estado de las Pruebas Unitarias
-Jets Unit para react y Junit para java
+JUnit  y Junit para java
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -124,11 +121,6 @@ Jets Unit para react y Junit para java
 [![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 
-<a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
-  <div style="background-color: #E34F26; color: #ffffff; padding: 10px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="40">
-  </div>
-</a>
 
 
 
