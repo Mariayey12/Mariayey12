@@ -46,8 +46,15 @@ ________________________________________________________________________________
 
 | Categoría                        | Tecnología/Enlace                                    | Icono                             |
 |---------------------------------|------------------------------------------------------|----------------------------------|
-| **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-- [![React Native](https://img.shields.io/badge/React%20Native-00D8FF?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/) <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> |
+| **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
+
+|---------------------------------|------------------------------------------------------|----------------------------------|
+| **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
+
+
+
+
+
 | **Frontend Development**        | [Bootstrap](https://getbootstrap.com)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20"> |
 |                                 | [CSS3](https://www.w3schools.com/css/)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> |
 |                                 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> |
