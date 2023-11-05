@@ -36,9 +36,8 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnicas  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 
-| Categoría                       | Tecnología                                           |             
-|---------------------------------|------------------------------------------------------|-----------------------------------------------------------------------|
-| **Programming Languages** **Frontend Development**|Programacion Orientada a eventos,a Objetos y Funcional| 
+| Categorías                                       | Tecnologías                                         
+|**Programming Languages** **Frontend Development**|P  rogramacion Orientada a eventos,a Objetos y Funcional| 
 
 - <a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
   <div style="background-color: #E34F26; color: #ffffff; padding: 10px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
@@ -54,7 +53,7 @@ ________________________________________________________________________________
 -[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
 - [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
