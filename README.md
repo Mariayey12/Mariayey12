@@ -44,12 +44,11 @@ ________________________________________________________________________________
 ### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 ### Herramientas Técnicas de Trabajo ⚒
 
-| Categoría                        | Tecnología/Enlace                                    | Icono                             |
+| Categoría                       | Tecnología/Enlace                                   | Icono                             |
 |---------------------------------|------------------------------------------------------|----------------------------------|
 | **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
 
-|---------------------------------|------------------------------------------------------|----------------------------------|
-| **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
+
 
 
 
