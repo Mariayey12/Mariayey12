@@ -38,8 +38,8 @@ ________________________________________________________________________________
 | Categorías                                       | Tecnologías                                         
 **Programming Languages** **Frontend Development**  |  Programacion Orientada a eventos,a Objetos y Funcional| 
 - <a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
-  <div style="background-color: #E34F26; color: #ffffff; padding: 30px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="70">
+  <div style="background-color: #E34F26; color: #ffffff; padding: 10px 50px; border: none; text-align: center; cursor: pointer; display: inline-block;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="50">
   </div>
 </a>  
 
