@@ -127,5 +127,35 @@ Jets Unit para react y Junit para java
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Agrega cualquier otra etiqueta <head> que necesites -->
+</head>
+<body>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  </a>
+  <a href="https://reactrouter.com/web/guides/quick-start">
+    <img src="https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge" alt="React Router DOM">
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge" alt="Redux">
+  </a>
+
+  <h2>Estado de las Pruebas Unitarias</h2>
+  <a href="https://github.com/tu_usuario/tu_repositorio/actions">
+    <img src="https://github.com/tu_usuario/tu_repositorio/workflows/Pruebas%20Unitarias/badge.svg" alt="Tests">
+  </a>
+
+  <p>Para Vercel: Babel y LinkedINk</p>
+  <!-- Agrega enlaces y botones para Vercel, Babel y LinkedINk según tus necesidades -->
+
+  <!-- Agrega cualquier otro contenido HTML que desees -->
+</body>
+</html>
 
 
