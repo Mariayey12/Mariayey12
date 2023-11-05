@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 
 | **Backend Development**    
-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
+- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)](https://www.cprogramming.com/)
 - [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 - [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
