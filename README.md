@@ -110,7 +110,10 @@ Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 - [Redux](https://redux.js.org/) - Un contenedor de estado predecible para aplicaciones JavaScript.
 
 ### Estado de las Pruebas Unitarias
+Jets Unit para react y Junit para java
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-[![Tests](https://github.com/tu_usuario/tu_repositorio/workflows/Pruebas%20Unitarias/badge.svg)](https://github.com/tu_usuario/tu_repositorio/actions)
 
 
