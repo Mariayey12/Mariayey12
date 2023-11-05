@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 | Categoría                       | Tecnología/Enlace                                   | Icono                             |
 |---------------------------------|------------------------------------------------------|----------------------------------|
-| **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
+| **Programming Languages**       | [React](https://React.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
 
 
 
