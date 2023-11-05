@@ -41,8 +41,7 @@ Conéctate conmigo en las redes sociales:
 - [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
 
 __________________________________________________________________________________________________________________________________________________________________________________________
-### Herramientas Tecnica  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
-### Herramientas Técnicas de Trabajo ⚒
+### Herramientas Tecnicas  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 
 | Categoría                       | Tecnología                                           | Icono                |
 |---------------------------------|------------------------------------------------------|-------------------------|
