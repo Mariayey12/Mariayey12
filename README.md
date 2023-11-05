@@ -54,20 +54,12 @@ ________________________________________________________________________________
 
 
 
+| **Backend Development**    
+- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
+- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
 
-
-
-
-
-| **Frontend Development**        | [Bootstrap](https://getbootstrap.com)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20"> |
-|                                 | [CSS3](https://www.w3schools.com/css/)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> |
-|                                 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> |
-|                                 | [React](https://reactjs.org/)                         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"> |
-
-| **Backend Development**         | [C](https://www.cprogramming.com/)                    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20"> |
-|                                 | [Express](https://expressjs.com)                     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="20" height="20"> |
-|                                 | [Node.js](https://nodejs.org)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20"> |
 | **Database**                     | [MongoDB](https://www.mongodb.com/)                   | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20"> |
 |                                 | [MySQL](https://www.mysql.com/)                       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"> |
 | **Backend as a Service (BaaS)** | [Firebase](https://firebase.google.com/)             | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="20" height="20"> |
@@ -96,9 +88,7 @@ ________________________________________________________________________________
 
 Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 
-- [![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+
 - [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
