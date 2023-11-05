@@ -115,5 +115,17 @@ Jets Unit para react y Junit para java
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
+
+**Estado de las Pruebas Unitarias**
+
+- Para React: [![Tests](https://github.com/tu_usuario/tu_repositorio/workflows/Pruebas%20Unitarias/badge.svg)](https://github.com/tu_usuario/tu_repositorio/actions)
+- Para Java: Jets Unit
+
+
+
 
 
