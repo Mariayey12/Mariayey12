@@ -24,11 +24,7 @@ ________________________________________________________________________________
 - ⚡ Dato curioso:
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### <h3 align="left">Conecta con migo... Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.</h3>
-
-Puede encontrarme a travez de mi rede social y ponerte en contacto conmigo.
 ### Redes Sociales
-
-Conéctate conmigo en las redes sociales:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tu_perfil_de_linkedin/)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
 - [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook)
