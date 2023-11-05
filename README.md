@@ -46,7 +46,8 @@ ________________________________________________________________________________
 
 | Categoría                        | Tecnología/Enlace                                    | Icono                             |
 |---------------------------------|------------------------------------------------------|----------------------------------|
-| **Programming Languages**       | [Babel](https://babeljs.io/)                         |<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> |
+| **Programming Languages**       | [Babel](https://babeljs.io/)                         |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+- [![React Native](https://img.shields.io/badge/React%20Native-00D8FF?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/) <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> |
 | **Frontend Development**        | [Bootstrap](https://getbootstrap.com)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20" height="20"> |
 |                                 | [CSS3](https://www.w3schools.com/css/)               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="20" height="20"> |
 |                                 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> |
@@ -85,7 +86,6 @@ Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 - [![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 - [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 - [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-- [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 - [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -114,4 +114,5 @@ Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 ### Estado de las Pruebas Unitarias
 
 [![Tests](https://github.com/tu_usuario/tu_repositorio/workflows/Pruebas%20Unitarias/badge.svg)](https://github.com/tu_usuario/tu_repositorio/actions)
+
 
