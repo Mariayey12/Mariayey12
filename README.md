@@ -120,7 +120,12 @@ Jets Unit para react y Junit para java
 [![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 
-[![HTML5]"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+[![HTML5]("https://https://img.shields.io/badge/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40")
+<a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
+  <div style="background-color: #E34F26; color: #ffffff; padding: 10px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="40">
+  </div>
+</a>
 
 
 
