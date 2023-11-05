@@ -44,7 +44,8 @@ ________________________________________________________________________________
   <div style="background-color: #E34F26; color: #ffffff; padding: 10px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="40">
   </div>
-</a> 
+</a>  
+
 - [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 - [![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 - [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
