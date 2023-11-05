@@ -36,11 +36,22 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnicas  de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>
 
-| Categoría                       | Tecnología                                           | Icono                |
+| Categoría                       | Tecnología                                           | Icono                   |
 |---------------------------------|------------------------------------------------------|-------------------------|
-| **Programming Languages**       | Programacion Orientada a eventos                     |   - [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
-
-
+| **Programming Languages**       |Programacion Orientada a eventos,a Objetos y Funcional|   
+-<a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
+  <div style="background-color: #E34F26; color: #ffffff; padding: 10px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="40">
+  </div>
+</a>|
+- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)|
+- [![Bootstrap](https://img.shields.io/badge/Bootstrap-5C2D91?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)|
+-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>.|
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)|
+[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)|
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)|
+- [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)|
 
 
 
@@ -92,7 +103,6 @@ Aquí tienes una lista de las tecnologías y herramientas con las que trabajo:
 - [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-- [![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org)
 - [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 - [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -120,7 +130,6 @@ Jets Unit para react y Junit para java
 [![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge)](https://reactrouter.com/web/guides/quick-start)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 
-[![HTML5]("https://https://img.shields.io/badge/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40")
 <a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
   <div style="background-color: #E34F26; color: #ffffff; padding: 10px 20px; border: none; text-align: center; cursor: pointer; display: inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" alt="HTML5" width="40" height="40">
