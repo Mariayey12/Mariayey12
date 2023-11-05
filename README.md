@@ -25,7 +25,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________________
 ### <h3 align="left">Conecta con migo¡...</h3>
 ### Redes Sociales
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
 - [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook)
@@ -59,12 +59,12 @@ ________________________________________________________________________________
 -  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 - [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-_________________________________________________________________________________________________________________________________________________________________________________________
-| **Database**                  _________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________
+| **Database**                  __________________________________________________________________________________________________________________________________________
 **Backend as a Service (BaaS)**
 - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 - [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-_________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________
 **Testing** |### Estado de las Pruebas Unitarias
 - [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
 -  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -83,7 +83,6 @@ ________________________________________________________________________________
 ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
 __________________________________________________________________________________________________________________________________________
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
-
 ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
 ![Estadísticas de lenguajes de programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 __________________________________________________________________________________________________________________________________________
