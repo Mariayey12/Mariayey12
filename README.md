@@ -15,7 +15,8 @@ En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
 
-❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books    
+❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books 
+
 🔭 Estoy trabajando en: boot camp un bootcamp como  dearrollodora  backen en  java , MySQL,bae de dato relacionl y no relacional, programacion POO y funcional,Arquitectura de diseño MVC y patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
 SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.
 
