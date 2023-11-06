@@ -23,7 +23,7 @@ ________________________________________________________________________________
 - 📄 Conoce mis experiencias:
 - ⚡ Dato curioso:
 __________________________________________________________________________________________________________________________________________________________________________________________
-|### <h3 align="left">Conecta con migo¡...</h3>|### Redes Sociales
+### <h3 align="left">Conecta con migo¡...</h3>|### Redes Sociales
 |- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)|
 |                                                                  |
 |- [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)|
@@ -34,6 +34,17 @@ ________________________________________________________________________________
 ### Correo Electrónico
 ¡No dudes en contactarme por correo electrónico!
 - [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
+
+| ### <h3 align="left">Conecta con migo¡...</h3>|### Redes Sociales | Título de la columna 2 | Título de la columna 3 |
+|------------------------                                           |------------------------|------------------------|
+|[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)|                     
+                                                                    | Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| Título de la columna 1 | Título de la columna 2 | Título de la columna 3 |
+|------------------------|------------------------|------------------------|
+| Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnicas y Tecnologías de trabajo  ⚒ ... <h3 align="left">Languages and Tools:</h3>**Programming Languages** **Frontend Development**    
 |   Programacion Orientada a eventos,a Objetos y Funcional| 
