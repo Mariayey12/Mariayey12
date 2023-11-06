@@ -3,6 +3,7 @@
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
  Hola 👋,:raising_hand: Me Presento este es mi  Perfil...
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
+
 <h4 align="center padding"> :smiley:
  soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs.<b></b>
   Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
@@ -10,8 +11,10 @@ ________________________________________________________________________________
 :mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
-### Actualmete Me dedico a.... _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
+
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books  
 
 -🔭 Estoy trabajando en:
@@ -50,9 +53,10 @@ ________________________________________________________________________________
 **Testing|### Estado de las Pruebas Unitarias
 -[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
- **Software
+ **Software <h4 align="center padding"> :smiley:
 -[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-__________________________________________________________________________________________________________________________________________**Lenguajes Tranpilador de JavaScript**
+__________________________________________________________________________________________________________________________________________                                                                                                        
+ <h4 align="center padding"> :smiley: **Lenguajes Tranpilador de JavaScript**
 -[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org) [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 -  ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
