@@ -24,6 +24,26 @@ ________________________________________________________________________________
 - 📝 Escribo regularmente artículos sobre:
 - 📄 Conoce mis experiencias:
 - ⚡ Dato curioso:
+
+  
+ 
+🔭 Estoy trabajando en: boot camp un bootcamp como  dearrollodora  backen en  java , MySQL,bae de dato relacionl y no relacional, programacion POO y funcional,Arquitectura de diseño MVC y patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
+SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.
+
+🌱 Estoy aprendiendo actualmente: [ tecnologías   habilidades en las que estás enfocado en tu proceso de aprendizaje]
+
+💬 Pregúntame acerca de: [Aquí puedes mencionar áreas de especialización o temas en los que te sientes cómodo respondiendo preguntas]
+
+👨‍💻 Todos mis proyectos: [Proporciona un enlace a tu perfil de GitHub o una sección específica de proyectos]
+
+📝 Escribo regularmente artículos sobre: [Si escribes regularmente, menciona los temas sobre los que escribes]
+
+📄 Conoce mis experiencias: [Enlace a tu currículum o un resumen de tu experiencia]
+
+⚡ Dato curioso: Estoy estudiando programación full stack y estoy emocionado por el continuo aprendizaje y desarrollo.
+
+¡Gracias por visitar mi perfil!
+
 __________________________________________________________________________________________________________________________________________________________________________________________
 ## <h3 align="left">Conecta con migo...A travez de mis Redes Sociales</h3>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
@@ -55,7 +75,7 @@ ________________________________________________________________________________
 - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 **Testing
-- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com) <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/)
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com) <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
  **Software 
 - [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
