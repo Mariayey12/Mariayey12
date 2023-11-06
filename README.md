@@ -55,7 +55,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________**Lenguajes Tranpilador de JavaScript**
 -[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org) [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 _________________________________________________________________________________________________________________________________________________________________________________________________________
--[![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
+-  ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
 ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
