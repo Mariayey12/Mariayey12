@@ -50,7 +50,7 @@ ________________________________________________________________________________
 - [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge)](https://redux.js.org/)
 - [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-_______________________________________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 **Backend Development**    
 - [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)](https://www.cprogramming.com/)
 - [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
