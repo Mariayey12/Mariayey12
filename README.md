@@ -7,7 +7,7 @@ ________________________________________________________________________________
 <h4 align="center padding"> :smiley:
  soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por la tecnología y las TICs.<b></b>
   Siempre me mantengo al día con las últimas tendencias y herramientas en este campo.
-🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como del lado del servidor (Backend).
+🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend con un enfoque en ReactJS, Redux, styled components y react-router-DOM y un sólidos conocimientos en HTML5, CSS3 Bootrap ,Figma y JavaScript,Webpack/Babel; he trabajado con Git y GitHub para el control de versiones de código. Además, he utilizado plataformas como Firebase y Heroku para la implementación de proyectos Apirest.) como del lado del servidor (Backend  tecnologías de servidor como Node.js y bases de datos relacionales y no relacionales,gestores como MySQL y MongoDB ).
 :mortar_board: Mi formación profesional se respalda en una sólida base, con una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
