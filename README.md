@@ -6,10 +6,10 @@ ________________________________________________________________________________
 
 <h4 align="center padding"> :smiley:
   Soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por las tecnologías y las TICS.<b></b>
-  Siempre al día de as últimas tendencias y herramientas en el campo.
+  Siempre al día de las últimas tendencias y herramientas en el campo.
 🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend con un enfoque en ReactJS, Redux, styled components y react-router-DOM y un sólidos conocimientos en HTML5, CSS3 Boostrap ,Figma y JavaScript,Webpack/Babel; he trabajado con Git y GitHub para el control de versiones de código. Además, he utilizado plataformas como Firebase y Heroku para la implementación de proyectos  Apirest, Modelado del Negocio con Lenguaje  UML y Desing Thinking  para Levantamiento de Información, Patrón Arquitectónico MVC) .
- Del lado del servidor (Backend he utilizado tecnologías de servidor como Node.js y bases de datos relacionales y no relacionales,gestores como MySQL y MongoDB ,patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
-SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.).
+ Del lado del servidor (Backend he utilizado tecnologías de servidor como Node.js y bases de datos relacionales y no relacionales,gestores como MySQL y MongoDB ,patrones de diseño, Etructuras de Datos, Java Stream Api, REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
+SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.).
 :mortar_board: Mi formación profesional se respalda en una sólida base y una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
@@ -20,9 +20,9 @@ ________________________________________________________________________________
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books 
 
 🔭 Estoy trabajando en: Un bootcamp como  dearrollodora  Backend con énfasis en java , MySQL,base de datos relacionles y no relacional`s`, programacion POO y funcional,Arquitectura de diseño MVC y patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
-SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.
+SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN Y JWT.
 
-🌱 Estoy aprendiendo actualmente: [ tecnologías   habilidades en las que estás enfocado en tu proceso de aprendizaje]
+🌱 Estoy aprendiendo actualmente: [ ]
 
 💬 Pregúntame acerca de: [Aquí puedes mencionar áreas de especialización o temas en los que te sientes cómodo respondiendo preguntas]
 
