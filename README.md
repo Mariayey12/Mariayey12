@@ -4,6 +4,7 @@ ________________________________________________________________________________
  Hola 👋,:raising_hand: Me Presento este es mi  Perfil...
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
+
 <h4 align="center padding"> :smiley:
   Soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por las tecnologías y las TICS.<b></b>
   Siempre al día de las últimas tendencias y herramientas en el campo.
@@ -15,12 +16,14 @@ SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTEN
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
 
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books 
 
 🔭 Estoy trabajando en: Un bootcamp como  dearrollodora  Backend con énfasis en java , MySQL,base de datos relacionles y no relacional`s`, programacion POO y funcional,Arquitectura de diseño MVC y patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
 SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN Y JWT.
+🌎 I'm from Bogotá - Colombia.
 
 🌱 Estoy aprendiendo actualmente: [ ]
 
