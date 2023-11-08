@@ -36,12 +36,12 @@ SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENT
 
 ⚡ Dato curioso: Estoy estudiando programación full stack y estoy emocionado por el continuo aprendizaje y desarrollo.
 ____________________________________________________________________________________________________________________________________________________________________________________________________
- ###<h3 align="left">Conecta con migo...A travez de mis Redes Sociales</h3>
+ ###<h3 align="left">Conecta con migo...A travez de mis Redes Sociales
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
  [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter)
 ### Correo Electrónico
 ¡No dudes en contactarme por correo electrónico!
-- [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
+- [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)</h3>
 _______________________________________________________________________________________________________________________________________________________________________________________________________
 ### Herramientas Tecnicas y Tecnologías de trabajo  ⚒ ...<h3 align="left">Languages and Tools:</h3>**Programming Languages** **Frontend Development**Programacion Orientada a eventos,a Objetos y Funcional                                                   - <a href="https://www.w3.org/TR/html52/" style="text-decoration: none;">
   <div style="background-color: #E34F26; color: #ffffff; padding: 10px 40px; border: none; text-align: center; cursor: pointer; display: inline-block;">
