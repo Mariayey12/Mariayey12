@@ -74,8 +74,8 @@ ________________________________________________________________________________
  **Software 
 - [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 _________________________________________________________________________________________________________________________________________________________________________________________________________
-- :sparkles:  Metodologías Ágiles,Diing thinking, Diagrama UML  _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+- :sparkles:  Metodologías Ágiles,Diing thinking, Diagrama UML
+_________________________________________________________________________________________________________________________________________________________________________________________________________
 
 -  ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -83,8 +83,6 @@ ________________________________________________________________________________
 ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
 ![Estadísticas de lenguajes de programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
 
 ***¡Gracias por visitar mi perfil!
 
