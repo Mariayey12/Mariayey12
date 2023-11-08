@@ -36,7 +36,7 @@ SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENT
 
 ⚡ Dato curioso: Estoy estudiando programación full stack y estoy emocionado por el continuo aprendizaje y desarrollo.
 
-¡Gracias por visitar mi perfil!
+
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 ## <h3 align="left">Conecta con migo...A travez de mis Redes Sociales</h3>
@@ -83,7 +83,7 @@ ________________________________________________________________________________
 
 
 
-
+***¡Gracias por visitar mi perfil!
 
 
 
