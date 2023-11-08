@@ -4,6 +4,7 @@ ________________________________________________________________________________
  Hola 👋,:raising_hand: Me Presento este es mi  Perfil...
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
+
 <h4 align="center padding"> :smiley:
   Soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por las tecnologías y las TICS.<b></b>
   Siempre al día de las últimas tendencias y herramientas en el campo.
@@ -14,7 +15,8 @@ SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTEN
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
 
 ❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books 
