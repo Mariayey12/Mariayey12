@@ -4,7 +4,7 @@ ________________________________________________________________________________
  Hola 👋,:raising_hand: Me Presento este es mi Perfil... 
  _________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<h4 align="center padding"> :smiley:
+ :smiley:<h4 align="center padding">    
   Soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por las tecnologías y las TICS.<b></b>
   Siempre al día de las últimas tendencias y herramientas en el campo.
 🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend con un enfoque en ReactJS, Redux, styled components y react-router-DOM y un sólidos conocimientos en HTML5, CSS3 Boostrap ,Figma y JavaScript,Webpack/Babel; he trabajado con Git y GitHub para el control de versiones de código. Además, he utilizado plataformas como Firebase y Heroku para la implementación de proyectos  Apirest, Modelado del Negocio con Lenguaje  UML y Desing Thinking  para Levantamiento de Información, Patrón Arquitectónico MVC) .
@@ -15,7 +15,7 @@ SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTEN
 En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
 ___________________________________________________________________________________________________________________________________________________
 
-### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
+ :smiley:### Actualmete Me dedico a.... <h4 align="center padding"> 
 
 ❤️ Programación | 🖤 Música | 💙 Películas 📼 |  📚 Libros 
 
