@@ -1,9 +1,7 @@
-
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 <br></br>
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
  Hola 👋,:raising_hand: Me Presento este es mi Perfil... _____________________________________________________________________________________________________________________________________________________________________________________________________________
-
 <h4 align="center padding"> :smiley:
   Soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por las tecnologías y las TICS.<b></b>
   Siempre al día de las últimas tendencias y herramientas en el campo.
