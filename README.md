@@ -1,7 +1,7 @@
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 <br></br>
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
- Hola 👋,:raising_hand: Me Presento este es mi Perfil... </h4>
+ Hola 👋,:raising_hand: Me Presento este es mi Perfil... 
  _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h4 align="center padding"> :smiley:
@@ -12,8 +12,8 @@ ________________________________________________________________________________
 SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.).
 :mortar_board: Mi formación profesional se respalda en una sólida base y una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
-En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
 
@@ -35,9 +35,7 @@ SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENT
 
 ⚡ Dato curioso: Estoy estudiando programación full stack y estoy emocionado por el continuo aprendizaje y desarrollo.
 
-
-
-__________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 ## <h3 align="left">Conecta con migo...A travez de mis Redes Sociales</h3>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&style=LinkedIn)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268)[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram)
  [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter)
