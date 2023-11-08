@@ -17,13 +17,14 @@ ________________________________________________________________________________
 
 ### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
 
-❤️ Programming | 🖤 Music | 💙 Movies|  📚 Books 
+❤️ Programación | 🖤 Música | 💙 Películas 📼 |  📚 Libros 
 
-🔭 Estoy trabajando en: Un bootcamp como  dearrollodora  Backend con énfasis en java , MySQL,base de datos relacionles y no relacional`s`, programacion POO y funcional,Arquitectura de diseño MVC y patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
+🌎 Vivo en  Bogotá - Colombia.
+
+🔭 Estoy trabajando en:    
+
+🌱 Estoy aprendiendo actualmente:en bootcamp Makaia a dearrollodor en el area de   Backend con un énfasis en java , MySQL,base de datos relacionles y no relacional`s`, programacion POO y funcional,Arquitectura de diseño MVC y patrones de diseño, Etructuras de Datos, Java Stream Api,REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
 SPRING BOOT + SPRING DAT,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN Y JWT.
-🌎 I'm from Bogotá - Colombia.
-
-🌱 Estoy aprendiendo actualmente: [ ]
 
 💬 Pregúntame acerca de: [Aquí puedes mencionar áreas de especialización o temas en los que te sientes cómodo respondiendo preguntas]
 
