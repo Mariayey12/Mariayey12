@@ -1,7 +1,7 @@
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 <br></br>
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
- Hola 👋,:raising_hand: Me Presento este es mi Perfil... 
+ Hola 👋,:raising_hand: Me Presento este es mi Perfil... </h4>
  _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h4 align="center padding"> :smiley:
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.).
 :mortar_board: Mi formación profesional se respalda en una sólida base y una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
       Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
-En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
+En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### Actualmete Me dedico a.... <h4 align="center padding"> :smiley:
