@@ -4,18 +4,21 @@ ________________________________________________________________________________
   :smiley: Hola 👋,:raising_hand: Me Presento este es mi Perfil... 
  _________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<h4 align="center padding">    
-  Soy Maríyey , madre, hija, esposa y profesional digital innovadora apasionada por las tecnologías y las TICS.<b></b>
-  Siempre al día de las últimas tendencias y herramientas en el campo.
-🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend con un enfoque en ReactJS, Redux, styled components y react-router-DOM y un sólidos conocimientos en HTML5, CSS3 Boostrap ,Figma y JavaScript,Webpack/Babel; he trabajado con Git y GitHub para el control de versiones de código. Además, he utilizado plataformas como Firebase y Heroku para la implementación de proyectos  Apirest, Modelado del Negocio con Lenguaje  UML y Desing Thinking  para Levantamiento de Información, Patrón Arquitectónico MVC) .
- Del lado del servidor (Backend he utilizado tecnologías de servidor como Node.js y bases de datos relacionales y no relacionales,gestores como MySQL y MongoDB ,patrones de diseño, Etructuras de Datos, Java Stream Api, REST Api,Inyeccion de dependencia,Pruebas Unitaria,JPA +H2
-SPRING BOOT + SPRING DATA,COMUNICACIÓN DE MICROSERVICIOS,SPRING  SECURITY AUTENTICACIÓN,AUTORIZACIÓN, JWT.).
-:mortar_board: Mi formación profesional se respalda en una sólida base y una Tecnologia en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
-      Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras.
-En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.</h4>
-___________________________________________________________________________________________________________________________________________________
+👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
 
- :smiley:### Actualmete Me dedico a.... <h4 align="center padding"> 
+🔭 Mi experiencia abarca tanto el desarrollo web del lado del cliente (Frontend) como el lado del servidor (Backend). En el Frontend, me especializo en tecnologías como ReactJS, Redux, styled components y react-router-DOM. Tengo sólidos conocimientos en HTML5, CSS3, Boostrap, Figma y JavaScript. He trabajado con Git y GitHub para el control de versiones de código y he utilizado plataformas como Firebase y Heroku para la implementación de proyectos Apirest. Además, he aplicado Modelado del Negocio con Lenguaje UML y Desing Thinking para el Levantamiento de Información, y he trabajado con el Patrón Arquitectónico MVC.
+
+🚀 En el lado del servidor (Backend), he utilizado tecnologías como Node.js y bases de datos relacionales y no relacionales, como MySQL y MongoDB. Poseo experiencia en patrones de diseño, estructuras de datos, Java Stream API, REST API, inyección de dependencia, pruebas unitarias y JPA con H2. También he trabajado con tecnologías como Spring Boot y Spring Data, y he implementado la comunicación de microservicios. Tengo experiencia en Spring Security, incluyendo autenticación, autorización y JWT.
+
+🎓 Mi formación profesional se respalda en una sólida base en Tecnología en Informática Universitaria, complementada por una amplia variedad de cursos que se ajustan a mi perfil.
+
+💡 Estoy firmemente comprometida con el aprendizaje continuo y la creación de soluciones tecnológicas e innovadoras. En este momento, estoy en busca de oportunidades desafiantes donde pueda aplicar mis habilidades y conocimientos en proyectos tecnológicos y marcar una diferencia significativa.
+
+Si estás interesado en colaborar en proyectos tecnológicos o simplemente quieres conectar, ¡no dudes en contactarme! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores.
+ _________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+ :smiley:### Actualmete Me dedico a y mi tema de intere on.... <h4 align="center padding"> 
 
 ❤️ Programación | 🖤 Música | 💙 Películas 📼 |  📚 Libros 
 
