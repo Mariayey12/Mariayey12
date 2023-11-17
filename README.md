@@ -118,10 +118,9 @@ ________________________________________________________________________________
 
 </details>
 _________________________________________________________________________________________________________________________________________________________________________________________________________
-<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 15px;">
 
 ## Seguidores y Contribuciones
-| ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) | ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones) |
+| ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) |![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones) |
 ![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical) ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)    
  ![Estadísticas de Lenguajes de Programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 
