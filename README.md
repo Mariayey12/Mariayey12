@@ -8,10 +8,21 @@
 
 ### Desarrolladora Full Stack | Innovadora Tecnológica | Apasionada por la Programación
 
-![Ubicación](https://img.shields.io/badge/Locaci%C3%B3n-Bogot%C3%A1,%20Colombia-green)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mar%C3%ADyey-blue)](Enlace a LinkedIn)
-[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-Mariayey.com-brightgreen)](Enlace al Sitio Web)
-[![Twitter](https://img.shields.io/badge/Twitter-@maríyey-purple)](Enlace a Twitter)
+### ¡Conéctate Conmigo!
+
+<div align="center">
+
+| **Conecta conmigo en Redes Sociales** | **Contacto** |
+| ------------------------------------- | ------------ |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268) | - Bogotá, Colombia<br>- Correo Electrónico: [tu@email.com](mailto:tu@email.com) |
+| [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram) | |
+| [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook) | |
+| [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter) | |
+| | [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com) |
+
+</div>
+
+---
 
 ---
 
@@ -82,19 +93,8 @@
    - Spring Boot, Spring Data
    - Spring Security: Autenticación, Autorización, JWT
 
----
 
-### ¡Conéctate Conmigo!
 
-💬 Pregúntame acerca de: [Áreas de especialización o temas en los que te sientes cómoda respondiendo preguntas]
-
-👨‍💻 [Todos mis proyectos en GitHub](Enlace a tu perfil de GitHub)
-
-📝 [Artículos y Publicaciones](Enlace a tus artículos)
-
-📄 [Conoce mis experiencias](Enlace a tu currículum o resumen de experiencia)
-
----
 
 ¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores.
 
