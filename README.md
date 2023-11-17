@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 ---
 <details>
-<summary>▶️ Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
+<summary>▶️ ### Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
 ### Habilidades y Tecnologías
 
 #### Desarrollo Frontend:Languages
@@ -87,7 +87,8 @@ ________________________________________________________________________________
 ---
 
 ### Actualmente realice un...
-
+<details>
+<summary>▶️ Haz clic aquí para conocer más  </summary>
 🌱 **Bootcamp en Academia Makaia como : Desarrollador Backend**
    - Java, MySQL
    - Programación POO y Funcional
@@ -109,7 +110,7 @@ ________________________________________________________________________________
 📄 **Conoce Mis Experiencias:**
    - [Enlace a tu currículum o un resumen de tu experiencia]
    - Puedes hacer clic en las flechas para expandir/cerrar la información.
-
+</details>
 <details>
 <summary>▶️ Haz clic aquí para conocer más sobre mi experiencia</summary>
 
