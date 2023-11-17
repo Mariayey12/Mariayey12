@@ -130,9 +130,6 @@ ________________________________________________________________________________
 - ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
 - [![Estadísticas de Lenguajes de Programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 
--![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)    
--![Estadísticas de Lenguajes de Programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
-
 ¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores
  
 
