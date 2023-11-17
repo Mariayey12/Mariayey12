@@ -44,8 +44,6 @@ ________________________________________________________________________________
 - [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)](https://www.cprogramming.com/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)                      
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
-- MySQL, MongoDB
-- Java, Spring Boot
 - REST API, Microservicios
 - Spring Security, JWT
 **Database
@@ -59,6 +57,12 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### Herramientas y Métodos:
+
+ **Software 
+- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+- :sparkles:  Metodologías Ágiles,Diing thinking, Diagrama UML
+
 
 - Git, GitHub
 - Firebase, Heroku
@@ -89,9 +93,9 @@ ________________________________________________________________________________
 
 ---
 
-### Actualmente Trabajando en...
+### Actualmente Hice un...
 
-🌱 **Bootcamp Makaia: Desarrollador Backend**
+🌱 **Bootcamp en Academia Makaia como : Desarrollador Backend**
    - Java, MySQL
    - Programación POO y Funcional
    - Arquitectura de diseño MVC y patrones de diseño
@@ -101,16 +105,6 @@ ________________________________________________________________________________
    - Spring Security: Autenticación, Autorización, JWT
 
 
-
-
-¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores
- 
-
-
- **Software 
-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-_________________________________________________________________________________________________________________________________________________________________________________________________________
-- :sparkles:  Metodologías Ágiles,Diing thinking, Diagrama UML
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 
 -  ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
@@ -119,6 +113,12 @@ ________________________________________________________________________________
 ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
 ![Estadísticas de lenguajes de programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores
+ 
+
 
 
 
