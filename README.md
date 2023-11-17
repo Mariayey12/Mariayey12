@@ -44,12 +44,19 @@ ________________________________________________________________________________
 - [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)](https://www.cprogramming.com/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)                      
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________
-
-- Node.js
 - MySQL, MongoDB
 - Java, Spring Boot
 - REST API, Microservicios
 - Spring Security, JWT
+**Database
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+**Backend as a Service (BaaS)
+- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+**Testing
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com) <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### Herramientas y Métodos:
 
@@ -98,19 +105,8 @@ ________________________________________________________________________________
 
 ¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores
  
-**Backend Development
-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)](https://www.cprogramming.com/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)                      
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
-**Database
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
-**Backend as a Service (BaaS)
-- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
-**Testing
-- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com) <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](https://junit.org/junit5/)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
  **Software 
 - [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 _________________________________________________________________________________________________________________________________________________________________________________________________________
