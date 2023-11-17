@@ -124,9 +124,6 @@ ________________________________________________________________________________
 - [![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)](https://github.com/Mariayey12)
 - [![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)](https://github.com/Mariayey12/Mariayey12)
 
-
--![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) 
--![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones) 
 ![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
 
 
