@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
 ---
 
-### Actualmente Hice un...
+### Actualmente realice un...
 
 🌱 **Bootcamp en Academia Makaia como : Desarrollador Backend**
    - Java, MySQL
@@ -96,15 +96,43 @@ ________________________________________________________________________________
    - Spring Boot, Spring Data
    - Spring Security: Autenticación, Autorización, JWT
 
+💬 **Pregúntame Acerca de:**
+   - [Aquí puedes mencionar áreas de especialización o temas en los que te sientes cómodo respondiendo preguntas]
 
+👨‍💻 **Todos Mis Proyectos:**
+   - [Proporciona un enlace a tu perfil de GitHub o una sección específica de proyectos]
+
+📝 **Escribo Regularmente Artículos Sobre:**
+   - [Si escribes regularmente, menciona los temas sobre los que escribes]
+
+📄 **Conoce Mis Experiencias:**
+   - [Enlace a tu currículum o un resumen de tu experiencia]
+   - Puedes hacer clic en las flechas para expandir/cerrar la información.
+
+<details>
+<summary>▶️ Haz clic aquí para conocer más sobre mi experiencia</summary>
+
+[Detalles de Experiencia]
+
+</details>
 _________________________________________________________________________________________________________________________________________________________________________________________________________
+## Seguidores y Contribuciones
 
--  ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
+- ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
+- ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
+
+## Estadísticas de GitHub
+
+![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
+
+## Lenguajes más utilizados
+
 ![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
+
+## Estadísticas de lenguajes de programación
+
 ![Estadísticas de lenguajes de programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
