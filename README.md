@@ -65,6 +65,7 @@ ________________________________________________________________________________
 - Patrón Arquitectónico MVC
 
 ---
+</details>
 ### Formación
 
 🎓 Tecnología en Informática Universitaria
