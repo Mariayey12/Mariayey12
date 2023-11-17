@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ---
 <details>
-<summary>▶️
+<summary>▶️ Haz clic aquí para conocer más sobre mi </summary>
 ### Habilidades y Tecnologías
 
 #### Desarrollo Frontend:Languages
@@ -127,13 +127,13 @@ ________________________________________________________________________________
 
 ![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
 
-## Lenguajes más utilizados
+## Lenguajes más Utilizados
 
-![Estadísticas de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
+![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
 
-## Estadísticas de lenguajes de programación
+## Estadísticas de Lenguajes de Programación
 
-![Estadísticas de lenguajes de programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
+![Estadísticas de Lenguajes de Programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)
 
 
 
