@@ -1,3 +1,45 @@
+<!-- Banner para GitHub - Programador Full Stack -->
+
+[![Nombre del Programador Full Stack](Enlace a la Imagen)](Enlace al Perfil de GitHub)
+
+## ¡Hola! Soy [Nombre del Programador Full Stack] 👋
+
+### Desarrollador Full Stack | Solucionador de Problemas | Amante del Código Limpio
+
+#### Habilidades y Tecnologías:
+
+🚀 Desarrollo Front-End: HTML, CSS, JavaScript, ReactJS
+🔧 Desarrollo Back-End: Node.js, Express, MongoDB
+💻 Lenguajes de Programación: JavaScript, Python
+🛠️ Herramientas: Git, VS Code, Docker
+
+#### Proyectos Destacados:
+
+1. [Proyecto 1 - Nombre](Enlace al Proyecto)
+2. [Proyecto 2 - Nombre](Enlace al Proyecto)
+3. [Proyecto 3 - Nombre](Enlace al Proyecto)
+
+#### Contacto:
+
+📧 Correo Electrónico: correo@example.com
+🌐 [LinkedIn](Enlace a LinkedIn) | [Sitio Web](Enlace al Sitio Web) | [Twitter](Enlace a Twitter)
+
+---
+
+<!-- Puedes agregar un bloque de código aquí si lo deseas -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 <br></br>
 ___________________________________________________________________________________________________________________________________________________________________________________________________________
