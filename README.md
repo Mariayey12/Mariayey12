@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ---
 <details>
-<summary>▶️ Haz clic aquí para conocer más sobre mi </summary>
+<summary>▶️ Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
 ### Habilidades y Tecnologías
 
 #### Desarrollo Frontend:Languages
