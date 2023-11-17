@@ -120,16 +120,21 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Seguidores y Contribuciones
 
-- ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)
-- ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)
+| ![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social) | ![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones) |
+
+---
 
 ## Estadísticas de GitHub
 
 ![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
 
+---
+
 ## Lenguajes más Utilizados
 
 ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html)
+
+---
 
 ## Estadísticas de Lenguajes de Programación
 
