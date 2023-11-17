@@ -1,32 +1,104 @@
-<!-- Banner para GitHub - Programador Full Stack -->
+<!-- Banner para GitHub - Maríyey, Desarrolladora Full Stack -->
 
-[![Nombre del Programador Full Stack](Enlace a la Imagen)](Enlace al Perfil de GitHub)
+![Banner](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
 
-## ¡Hola! Soy [Nombre del Programador Full Stack] 👋
+---
 
-### Desarrollador Full Stack | Solucionador de Problemas | Amante del Código Limpio
+## ¡Hola! Soy Maríyey 👋
 
-#### Habilidades y Tecnologías:
+### Desarrolladora Full Stack | Innovadora Tecnológica | Apasionada por la Programación
 
-🚀 Desarrollo Front-End: HTML, CSS, JavaScript, ReactJS
-🔧 Desarrollo Back-End: Node.js, Express, MongoDB
-💻 Lenguajes de Programación: JavaScript, Python
-🛠️ Herramientas: Git, VS Code, Docker
+![Ubicación](https://img.shields.io/badge/Locaci%C3%B3n-Bogot%C3%A1,%20Colombia-green)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mar%C3%ADyey-blue)](Enlace a LinkedIn)
+[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-Mariayey.com-brightgreen)](Enlace al Sitio Web)
+[![Twitter](https://img.shields.io/badge/Twitter-@maríyey-purple)](Enlace a Twitter)
 
-#### Proyectos Destacados:
+---
+
+### Acerca de Mí
+
+👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
+
+---
+
+### Habilidades y Tecnologías
+
+#### Desarrollo Frontend:
+
+- ReactJS
+- Redux
+- Styled Components
+- HTML5, CSS3, Bootstrap
+- Figma
+- JavaScript
+
+#### Desarrollo Backend:
+
+- Node.js
+- MySQL, MongoDB
+- Java, Spring Boot
+- REST API, Microservicios
+- Spring Security, JWT
+
+#### Herramientas y Métodos:
+
+- Git, GitHub
+- Firebase, Heroku
+- UML, Design Thinking
+- Patrón Arquitectónico MVC
+
+---
+
+### Formación
+
+🎓 Tecnología en Informática Universitaria
+
+---
+
+### Proyectos Destacados
 
 1. [Proyecto 1 - Nombre](Enlace al Proyecto)
 2. [Proyecto 2 - Nombre](Enlace al Proyecto)
 3. [Proyecto 3 - Nombre](Enlace al Proyecto)
 
-#### Contacto:
+---
 
-📧 Correo Electrónico: correo@example.com
-🌐 [LinkedIn](Enlace a LinkedIn) | [Sitio Web](Enlace al Sitio Web) | [Twitter](Enlace a Twitter)
+### Intereses y Aficiones
+
+❤️ Programación | 🖤 Música | 💙 Películas | 📚 Libros
+
+🌎 Vivo en Bogotá - Colombia.
 
 ---
 
-<!-- Puedes agregar un bloque de código aquí si lo deseas -->
+### Actualmente Trabajando en...
+
+🌱 **Bootcamp Makaia: Desarrollador Backend**
+   - Java, MySQL
+   - Programación POO y Funcional
+   - Arquitectura de diseño MVC y patrones de diseño
+   - Estructuras de Datos, Java Stream API
+   - Comunicación de Microservicios
+   - Spring Boot, Spring Data
+   - Spring Security: Autenticación, Autorización, JWT
+
+---
+
+### ¡Conéctate Conmigo!
+
+💬 Pregúntame acerca de: [Áreas de especialización o temas en los que te sientes cómoda respondiendo preguntas]
+
+👨‍💻 [Todos mis proyectos en GitHub](Enlace a tu perfil de GitHub)
+
+📝 [Artículos y Publicaciones](Enlace a tus artículos)
+
+📄 [Conoce mis experiencias](Enlace a tu currículum o resumen de experiencia)
+
+---
+
+¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores.
+
+
 
 
 
