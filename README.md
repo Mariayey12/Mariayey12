@@ -111,18 +111,12 @@ ________________________________________________________________________________
    - [Enlace a tu currículum o un resumen de tu experiencia]
    - Puedes hacer clic en las flechas para expandir/cerrar la información.
 </details>
+
 <details>
 <summary>▶️ Haz clic aquí para conocer más sobre mi experiencia</summary>
 
 [Detalles de Experiencia]
-
 </details>
-| Redes Sociales                | Contacto                    |
-| ----------------------------- | --------------------------- |
-| [LinkedIn](url-de-tu-linkedin) | Correo Electrónico: [correo@example.com](mailto:correo@example.com) |
-| [GitHub](url-de-tu-github)     | Teléfono: +123456789        |
-| [Twitter](url-de-tu-twitter)   | Sitio web: [www.tusitio.com](http://www.tusitio.com)   |
-
 ___________________________________________________________________________________________________________________________________________
 
 ## Seguidores y Contribuciones
