@@ -117,6 +117,12 @@ ________________________________________________________________________________
 [Detalles de Experiencia]
 
 </details>
+| Redes Sociales                | Contacto                    |
+| ----------------------------- | --------------------------- |
+| [LinkedIn](url-de-tu-linkedin) | Correo Electrónico: [correo@example.com](mailto:correo@example.com) |
+| [GitHub](url-de-tu-github)     | Teléfono: +123456789        |
+| [Twitter](url-de-tu-twitter)   | Sitio web: [www.tusitio.com](http://www.tusitio.com)   |
+
 ___________________________________________________________________________________________________________________________________________
 
 ## Seguidores y Contribuciones
