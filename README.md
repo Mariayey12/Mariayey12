@@ -93,13 +93,6 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 |----------------------|------------------|--------------|---------------------------|
 | [![Metodologías Ágiles](https://img.shields.io/badge/Metodologías%20Ágiles-009688?style=for-the-badge&logo=agile&logoColor=white)](#) | [![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF4081?style=for-the-badge&logo=designthinking&logoColor=white)](#) | [![Diagrama UML](https://img.shields.io/badge/Diagrama%20UML-536DFE?style=for-the-badge&logo=uml&logoColor=white)](#) | [![Patrón Arquitectónico MVC](https://img.shields.io/badge/Patrón%20Arquitectónico%20MVC-3F51B5?style=for-the-badge&logo=mvc&logoColor=white)](#) |
 
-
-### Métodos
-- Metodologías Ágiles
-- Design Thinking
-- Diagrama UML
-- Patrón Arquitectónico MVC
-
 ---
 </details>
 
@@ -110,9 +103,9 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 ---
 ### Proyectos Destacados
 
-1. [Proyecto 1 - Nombre](Enlace al Proyecto)
-2. [Proyecto 2 - Nombre](Enlace al Proyecto)
-3. [Proyecto 3 - Nombre](Enlace al Proyecto)
+1. [Proyecto de grado  - Evaluacion360 para el desempeño laboral](https://gitlab.com/mmariayennifer.25/Evaluacion360)
+2. [Academia Geek - Makaia, Bootcamp Desarrollo Frontend-Realmod](https://github.com/Mariayey12/Realmod-proy-final)
+3. [Frelance Bootcamp Desarrollo Backend -Sistema de Reserva de Vuelos FlyLite ✈️ ](https://github.com/nickskyline/ReservaVuelos.git)
 
 ---
 
@@ -139,14 +132,14 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 💬 **Pregúntame Acerca de:**
    - [Aquí puedes mencionar áreas de especialización o temas en los que te sientes cómodo respondiendo preguntas]
 
-👨‍💻 **Todos Mis Proyectos:**
-   - [Proporciona un enlace a tu perfil de GitHub o una sección específica de proyectos]
+👨‍💻 **Todos Mis Proyectos:**Puedes conseguirlos por este medio 
+   - Proyectos [https://github.com/Mariayey12?tab=repositories]
 
 📝 **Escribo Regularmente Artículos Sobre:**
    - [Si escribes regularmente, menciona los temas sobre los que escribes]
 
 📄 **Conoce Mis Experiencias:**
-   - [Enlace a tu currículum o un resumen de tu experiencia]
+   - [https://www.canva.com/design/DAF0qmTAaz4/4mwvv9dWiCQHXAhAC1QKEg/edit?utm_content=DAF0qmTAaz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
    - Puedes hacer clic en las flechas para expandir/cerrar la información.
 </details>
 
