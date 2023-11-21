@@ -143,11 +143,6 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
    - Puedes hacer clic en las flechas para expandir/cerrar la información.
 </details>
 
-<details>
-<summary>▶️ Haz clic aquí para conocer más sobre mi experiencia</summary>
-
-[Detalles de Experiencia]
-</details>
 ___________________________________________________________________________________________________________________________________________
 
 ## Seguidores y Contribuciones
