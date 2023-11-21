@@ -148,34 +148,21 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 </details>
 
-
-[### Actualmente realice un...
-<details>
-<summary>▶️ ### Haz clic aquí para conocer más  </summary>
-🌱 **Bootcamp en Academia Makaia como : Desarrollador Backend**
-   - Java, MySQL
-   - Programación POO y Funcional
-   - Arquitectura de diseño MVC y patrones de diseño
-   - Estructuras de Datos, Java Stream API
-   - Comunicación de Microservicios
-   - Spring Boot, Spring Data
-   - Spring Security: Autenticación, Autorización, JWT
-
-💬 **Pregúntame Acerca de:**
-   - [Aquí puedes mencionar áreas de especialización o temas en los que te sientes cómodo respondiendo preguntas]
-
-👨‍💻 **Todos Mis Proyectos:**Puedes conseguirlos por este medio 
-   - Proyectos [https://github.com/Mariayey12?tab=repositories]
-
-📝 **Escribo Regularmente Artículos Sobre:**
-   - [Si escribes regularmente, menciona los temas sobre los que escribes]
-
-📄 **Conoce Mis Experiencias:**
-   - [https://www.canva.com/design/DAF0qmTAaz4/4mwvv9dWiCQHXAhAC1QKEg/edit?utm_content=DAF0qmTAaz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-   - Puedes hacer clic en las flechas para expandir/cerrar la información.
-</details>
-
 ___________________________________________________________________________________________________________________________________________
+
+
+## Seguidores y Contribuciones
+
+| [![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)](https://github.com/Mariayey12) | [![Contribuciones](https://img.shields.io/github/commit-activity/m/Mariayey12/Mariayey12?label=Contribuciones)](https://github.com/Mariayey12/Mariayey12) |
+|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+
+![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Mariayey12&show_icons=true&theme=radical)
+
+| ![Estadísticas de Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayey12&layout=compact&hide=html) | [![Estadísticas de Lenguajes de Programación](https://tokei.rs/b1/github/Mariayey12/Mariayey12)](https://tokei.rs/b1/github/Mariayey12/Mariayey12) |
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+
+¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores. 😊🚀
+
 
 ## Seguidores y Contribuciones
 - [![Seguidores](https://img.shields.io/github/followers/Mariayey12?label=Seguidores&style=social)](https://github.com/Mariayey12)
