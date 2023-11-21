@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 ### ¡No dudes en contactarme por correo electrónico! 
 
-[![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
+[![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mmariayennifer.25@gmail.com)
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
