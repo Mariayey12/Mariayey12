@@ -20,11 +20,12 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________
 ###  Acerca de Mí
 
-👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
+👩‍💼 Soy *Maríyey*, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
 ---
 
 <details>
-<summary>▶️ ## Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
+<summary>▶️ ### Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
+  
   # Desarrollador Frontend
   
 ### Lenguajes
