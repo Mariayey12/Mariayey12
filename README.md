@@ -64,6 +64,7 @@ ________________________________________________________________________________
 </details>
 
 _________________________________________________________________________________________________________________________________________________________________________________________
+
 <details>
 <summary>▶️ ### Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
   
@@ -161,42 +162,6 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 </details>
 
 ---
-### Intereses y Aficiones
-
-❤️ Programación | 🖤 Música | 💙 Películas | 📚 Libros
-
-🌎 Vivo en Bogotá - Colombia.
-
----
-<details>
-<summary>▶️ Haz clic aquí para conocer más ➕ de mi </summary>
-  
-### Actualmente realicé un...
-
-🌱 **Bootcamp en Academia Makaia como Desarrollador Backend**
-   - Java, MySQL
-   - Programación POO y Funcional
-   - Arquitectura de diseño MVC y patrones de diseño
-   - Estructuras de Datos, Java Stream API
-   - Comunicación de Microservicios
-   - Spring Boot, Spring Data
-   - Spring Security: Autenticación, Autorización, JWT
-
-💬 **Pregúntame Acerca de:**
-   - [Áreas de especialización o temas en los que me siento cómodo respondiendo preguntas]
-
-👨‍💻 **Todos Mis Proyectos:** 
-   - Proyectos [aquí](https://github.com/Mariayey12?tab=repositories)
-
-📝 **Escribo Regularmente Artículos Sobre:**
-   - [Temas sobre los que escribes regularmente]
-
-📄 **Conoce Mis Experiencias:**
-   - [Canva - Ver Experiencias](https://www.canva.com/design/DAF0qmTAaz4/4mwvv9dWiCQHXAhAC1QKEg/edit?utm_content=DAF0qmTAaz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-   Puedes hacer clic en las flechas para expandir/cerrar la información.
-
-</details>
 
 ___________________________________________________________________________________________________________________________________________
 
