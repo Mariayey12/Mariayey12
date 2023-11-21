@@ -158,9 +158,9 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 |----------------------|------------------|--------------|---------------------------|
 | [![Metodologías Ágiles](https://img.shields.io/badge/Metodologías%20Ágiles-009688?style=for-the-badge&logo=agile&logoColor=white)](#) | [![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF4081?style=for-the-badge&logo=designthinking&logoColor=white)](#) | [![Diagrama UML](https://img.shields.io/badge/Diagrama%20UML-536DFE?style=for-the-badge&logo=uml&logoColor=white)](#) | [![Patrón Arquitectónico MVC](https://img.shields.io/badge/Patrón%20Arquitectónico%20MVC-3F51B5?style=for-the-badge&logo=mvc&logoColor=white)](#) |
 
-
-</details>
 ---
+</details>
+
 
 ## Seguidores y Contribuciones
 
