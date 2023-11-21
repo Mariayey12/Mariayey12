@@ -86,6 +86,14 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 |-------|-----|-------------|-------|--------|
 | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) | [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)](https://www.adobe.com/in/products/illustrator.html) | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
+
+### Métodos
+
+| Metodologías Ágiles | Design Thinking | Diagrama UML | Patrón Arquitectónico MVC |
+|----------------------|------------------|--------------|---------------------------|
+| [![Metodologías Ágiles](https://img.shields.io/badge/Metodologías%20Ágiles-009688?style=for-the-badge&logo=agile&logoColor=white)](#) | [![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF4081?style=for-the-badge&logo=designthinking&logoColor=white)](#) | [![Diagrama UML](https://img.shields.io/badge/Diagrama%20UML-536DFE?style=for-the-badge&logo=uml&logoColor=white)](#) | [![Patrón Arquitectónico MVC](https://img.shields.io/badge/Patrón%20Arquitectónico%20MVC-3F51B5?style=for-the-badge&logo=mvc&logoColor=white)](#) |
+
+
 ### Métodos
 - Metodologías Ágiles
 - Design Thinking
