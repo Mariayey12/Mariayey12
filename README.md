@@ -95,7 +95,9 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 ---
 </details>
+
 ---
+
 ### Formación
 
 🎓 Tecnología en Informática Universitaria
