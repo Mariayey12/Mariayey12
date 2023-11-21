@@ -103,9 +103,18 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 ---
 ### Proyectos Destacados
 
-1. [Proyecto de grado  - Evaluacion360 para el desempeño laboral](https://gitlab.com/mmariayennifer.25/Evaluacion360)
-2. [Academia Geek - Makaia, Bootcamp Desarrollo Frontend-Realmod](https://github.com/Mariayey12/Realmod-proy-final)
-3. [Frelance Bootcamp Desarrollo Backend -Sistema de Reserva de Vuelos FlyLite ✈️ ](https://github.com/nickskyline/ReservaVuelos.git)
+1. **Proyecto de Grado - Evaluacion360 para el Desempeño Laboral**
+   - Descripción: Proyecto de grado enfocado en la evaluación del desempeño laboral.
+   - Repositorio: [Evaluacion360 en GitLab](https://gitlab.com/mmariayennifer.25/Evaluacion360)
+
+2. **Academia Geek - Makaia, Bootcamp Desarrollo Frontend - Realmod**
+   - Descripción: Proyecto final del Bootcamp de Desarrollo Frontend en Academia Geek - Makaia.
+   - Repositorio: [Realmod-proy-final en GitHub](https://github.com/Mariayey12/Realmod-proy-final)
+
+3. **Freelance Bootcamp Desarrollo Backend - Sistema de Reserva de Vuelos FlyLite ✈️**
+   - Descripción: Desarrollo backend para un sistema de reserva de vuelos llamado FlyLite.
+   - Repositorio: [ReservaVuelos en GitHub](https://github.com/nickskyline/ReservaVuelos.git)
+
 
 ---
 
