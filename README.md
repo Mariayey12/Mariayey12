@@ -65,6 +65,32 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________________
 
+
+### Formación
+
+🎓 Tecnología en Informática Universitaria
+
+---
+<details>
+<summary>▶️ ### Haz clic aquí para conocer  mis Proyectos más Destacados </summary>
+
+1. **Proyecto de Grado - Evaluacion360 para el Desempeño Laboral**
+   - Descripción: Proyecto de grado enfocado en la evaluación del desempeño laboral.
+   - Repositorio: [Evaluacion360 en GitLab](https://gitlab.com/mmariayennifer.25/Evaluacion360)
+
+2. **Academia Geek - Makaia, Bootcamp Desarrollo Frontend - Realmod**
+   - Descripción: Proyecto final del Bootcamp de Desarrollo Frontend en Academia Geek - Makaia.
+   - Repositorio: [Realmod-proy-final en GitHub](https://github.com/Mariayey12/Realmod-proy-final)
+
+3. **Freelance Bootcamp Desarrollo Backend - Sistema de Reserva de Vuelos FlyLite ✈️**
+   - Descripción: Desarrollo backend para un sistema de reserva de vuelos llamado FlyLite.
+   - Repositorio: [ReservaVuelos en GitHub](https://github.com/nickskyline/ReservaVuelos.git)
+
+
+
+</details>
+
+---
 <details>
 <summary>▶️ ### Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
   
@@ -133,32 +159,6 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 | [![Metodologías Ágiles](https://img.shields.io/badge/Metodologías%20Ágiles-009688?style=for-the-badge&logo=agile&logoColor=white)](#) | [![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF4081?style=for-the-badge&logo=designthinking&logoColor=white)](#) | [![Diagrama UML](https://img.shields.io/badge/Diagrama%20UML-536DFE?style=for-the-badge&logo=uml&logoColor=white)](#) | [![Patrón Arquitectónico MVC](https://img.shields.io/badge/Patrón%20Arquitectónico%20MVC-3F51B5?style=for-the-badge&logo=mvc&logoColor=white)](#) |
 
 ---
-</details>
-
----
-
-### Formación
-
-🎓 Tecnología en Informática Universitaria
-
----
-<details>
-<summary>▶️ ### Haz clic aquí para conocer  mis Proyectos más Destacados </summary>
-
-1. **Proyecto de Grado - Evaluacion360 para el Desempeño Laboral**
-   - Descripción: Proyecto de grado enfocado en la evaluación del desempeño laboral.
-   - Repositorio: [Evaluacion360 en GitLab](https://gitlab.com/mmariayennifer.25/Evaluacion360)
-
-2. **Academia Geek - Makaia, Bootcamp Desarrollo Frontend - Realmod**
-   - Descripción: Proyecto final del Bootcamp de Desarrollo Frontend en Academia Geek - Makaia.
-   - Repositorio: [Realmod-proy-final en GitHub](https://github.com/Mariayey12/Realmod-proy-final)
-
-3. **Freelance Bootcamp Desarrollo Backend - Sistema de Reserva de Vuelos FlyLite ✈️**
-   - Descripción: Desarrollo backend para un sistema de reserva de vuelos llamado FlyLite.
-   - Repositorio: [ReservaVuelos en GitHub](https://github.com/nickskyline/ReservaVuelos.git)
-
-
-
 </details>
 
 ---
