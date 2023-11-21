@@ -4,7 +4,7 @@
 
 ---
 
-## ¡Hola!  Soy Maríyey 👋
+### ¡Hola!  Soy Maríyey 👋
 
 ### Desarrolladora Full Stack | Innovadora Tecnológica | Apasionada por la Programación
 _________________________________________________________________________________________________________________________________________________________________________________________
@@ -18,14 +18,17 @@ ________________________________________________________________________________
 
 [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
 _________________________________________________________________________________________________________________________________________________________________________________________
-## Acerca de Mí
+###  Acerca de Mí
 
 👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
 ---
+
 <details>
 <summary>▶️ ## Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
   # Desarrollador Frontend
+  
 ### Lenguajes
+  
 Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 | HTML5 | CSS3 | Bootstrap | Sass | JavaScript | React | Redux | Vue.js | PHP |
@@ -49,8 +52,6 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 |--------|
 | [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
-### Tecnologías y Conceptos
-REST API, Microservicios, Spring Security, JWT
 
 ### Tecnologías y Conceptos
 
