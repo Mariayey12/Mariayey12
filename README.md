@@ -62,8 +62,8 @@ ________________________________________________________________________________
    Puedes hacer clic en las flechas para expandir/cerrar la información.
 
 </details>
----
 
+_________________________________________________________________________________________________________________________________________________________________________________________
 <details>
 <summary>▶️ ### Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
   
