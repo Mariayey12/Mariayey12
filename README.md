@@ -102,8 +102,7 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 ---
 <details>
-<summary>▶️ ### Haz clic aquí para conocer  mis  </summary>
-### Proyectos más Destacados
+<summary>▶️ ### Haz clic aquí para conocer  mis Proyectos más Destacados </summary>
 
 1. **Proyecto de Grado - Evaluacion360 para el Desempeño Laboral**
    - Descripción: Proyecto de grado enfocado en la evaluación del desempeño laboral.
@@ -117,9 +116,9 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
    - Descripción: Desarrollo backend para un sistema de reserva de vuelos llamado FlyLite.
    - Repositorio: [ReservaVuelos en GitHub](https://github.com/nickskyline/ReservaVuelos.git)
 
-</details>
----
 
+---
+</details>
 ### Intereses y Aficiones
 
 ❤️ Programación | 🖤 Música | 💙 Películas | 📚 Libros
