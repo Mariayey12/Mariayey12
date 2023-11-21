@@ -23,7 +23,7 @@ ________________________________________________________________________________
 #  Acerca de Mí
 
 👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
-_________________________________________________________________________________________________________________________________________________________________________________________
+
 ---
 
 <details>
@@ -94,7 +94,7 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 ---
 </details>
-_________________________________________________________________________________________________________________________________________________________________________________________
+
 ### Formación
 
 🎓 Tecnología en Informática Universitaria
