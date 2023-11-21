@@ -117,8 +117,10 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
    - Repositorio: [ReservaVuelos en GitHub](https://github.com/nickskyline/ReservaVuelos.git)
 
 
----
+
 </details>
+
+---
 ### Intereses y Aficiones
 
 ❤️ Programación | 🖤 Música | 💙 Películas | 📚 Libros
