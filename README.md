@@ -17,7 +17,9 @@ ________________________________________________________________________________
 ### ¡No dudes en contactarme por correo electrónico! 
 
 [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
+
 _________________________________________________________________________________________________________________________________________________________________________________________
+
 ###  Acerca de Mí
 
 👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
