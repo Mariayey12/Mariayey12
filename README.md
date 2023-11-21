@@ -17,19 +17,14 @@ ________________________________________________________________________________
 ### ¡No dudes en contactarme por correo electrónico! 
 
 [![Correo Electrónico](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
-
-_________________________________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________
 ## Acerca de Mí
 
 👩‍💼 Soy **Maríyey**, una profesional digital apasionada por las tecnologías y las TICS. Además, soy madre, hija y esposa, lo que me brinda un enfoque equilibrado y orientado a resultados en todo lo que hago.
-
 ---
 <details>
 <summary>▶️ ## Haz clic aquí para conocer más sobre mis  Habilidades, Tecnologías y Herramientas </summary>
-
   # Desarrollador Frontend
-
 ### Lenguajes
 Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
@@ -56,6 +51,13 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 ### Tecnologías y Conceptos
 REST API, Microservicios, Spring Security, JWT
+
+### Tecnologías y Conceptos
+
+| REST API | Microservicios | Spring Security | JWT |
+|----------|----------------|------------------|-----|
+| [![REST API](https://img.shields.io/badge/REST%20API-555555?style=for-the-badge&logo=api&logoColor=white)](#) | [![Microservicios](https://img.shields.io/badge/Microservicios-00BFFF?style=for-the-badge&logo=microservices&logoColor=white)](#) | [![Spring Security](https://img.shields.io/badge/Spring%20Security-43A047?style=for-the-badge&logo=spring&logoColor=white)](#) | [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)](#) |
+
 
 ### Bases de Datos
 | MongoDB | MySQL |
