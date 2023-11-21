@@ -117,9 +117,9 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 
 ---
 
-### Actualmente realice un...
+[### Actualmente realice un...
 <details>
-<summary>▶️ Haz clic aquí para conocer más  </summary>
+<summary>▶️ ### Haz clic aquí para conocer más  </summary>
 🌱 **Bootcamp en Academia Makaia como : Desarrollador Backend**
    - Java, MySQL
    - Programación POO y Funcional
