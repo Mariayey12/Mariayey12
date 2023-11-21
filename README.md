@@ -125,12 +125,10 @@ Programación Orientada a Eventos, Orientada a Objetos y Funcional
 🌎 Vivo en Bogotá - Colombia.
 
 ---
----
-
-### Actualmente realicé un...
-
 <details>
-<summary>▶️ Haz clic aquí para conocer más</summary>
+<summary>▶️ Haz clic aquí para conocer más ➕ de mi </summary>
+  
+### Actualmente realicé un...
 
 🌱 **Bootcamp en Academia Makaia como Desarrollador Backend**
    - Java, MySQL
@@ -169,7 +167,7 @@ ________________________________________________________________________________
 
 ¡Gracias por visitar mi perfil! Estoy emocionada por seguir creciendo en el mundo de la tecnología y contribuir al éxito de proyectos innovadores. 😊🚀
 
-
+---
 
 
 
