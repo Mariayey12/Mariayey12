@@ -81,7 +81,7 @@ ________________________________________________________________________________
 2. **Academia Geek - Makaia, Bootcamp Desarrollo Frontend - Realmod**
    - Descripción: Proyecto final del Bootcamp de Desarrollo Frontend en Academia Geek - Makaia.
    - Repositorio: [Realmod-proy-final en GitHub](https://github.com/Mariayey12/Realmod-proy-final)
-   - Despliegue:https://mariayey12.github.io/
+   - Despliegue:https://mariayey12.github.io
 
 3. **Freelance Bootcamp Desarrollo Backend - Sistema de Reserva de Vuelos FlyLite ✈️**
    - Descripción: Desarrollo backend para un sistema de reserva de vuelos llamado FlyLite.
