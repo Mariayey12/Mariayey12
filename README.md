@@ -85,7 +85,10 @@ ________________________________________________________________________________
 3. **Freelance Bootcamp Desarrollo Backend - Sistema de Reserva de Vuelos FlyLite ✈️**
    - Descripción: Desarrollo backend para un sistema de reserva de vuelos llamado FlyLite.
    - Repositorio: [ReservaVuelos en GitHub](https://github.com/nickskyline/ReservaVuelos.git)
-
+4.**Backen Proyecto para empresa Readmerica contribui del lado del Back para la participacion del Hackathon a la empresa RedAmeri el cual no permitio como grupo Obtener un 1 Lugar
+ - Diapositivas de Presentación :https://www.canva.com/design/DAF1VzGpCK4/tv2UU_UoIy8hej-D29E7XQ/edit?utm_content=DAF1VzGpCK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ - Repositorio:https://github.com/daesvi/Back-RedEAmerica/tree/maria
+ - Despliegue de Pagina:https://red-e-america.vercel.app/
 
 
 </details>
