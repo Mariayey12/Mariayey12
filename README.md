@@ -10,8 +10,8 @@
 _________________________________________________________________________________________________________________________________________________________________________________________
 
 ### ¡Conéctate Conmigo!
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariayennifermartinezcordero709654268) | [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram) | [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook) | [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/
+mariaymartinez)  | [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/tu_usuario_de_instagram) | [![Facebook](https://img.shields.io/badge/Facebook-Add%20Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/tu_usuario_de_facebook) | [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario_de_twitter) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### ¡No dudes en contactarme por correo electrónico! 
