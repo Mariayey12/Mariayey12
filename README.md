@@ -57,7 +57,7 @@ ________________________________________________________________________________
    - [Temas sobre los que escribes regularmente]
 
 📄 **Conoce Mis Experiencias:**
-   - [Canva - Ver Experiencias](https://www.canva.com/design/DAF0qmTAaz4/4mwvv9dWiCQHXAhAC1QKEg/edit?utm_content=DAF0qmTAaz4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   - [Canva - Ver Experiencias](https://www.canva.com/design/DAGYV4uXaiE/JLqEiIOuahrGzn1iybDzRw/edit?utm_content=DAGYV4uXaiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
    Puedes hacer clic en las flechas para expandir/cerrar la información.
 
