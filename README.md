@@ -1,6 +1,7 @@
 <!-- Banner para GitHub - Maríyey, Desarrolladora Full Stack -->
 
-![Banner](https://github.com/Mariayey12/Mariayey12/assets/92681721/fc807aca-7cae-4990-aea0-adb30232dfa8)
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/9aeb7479-1635-4247-8bd5-43974e702abc)
+
 
 ---
 
